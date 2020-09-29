@@ -1,0 +1,4632 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2020 The New York Times Company. All Rights Reserved.",
+  "section": "home",
+  "last_updated": "2020-09-29T02:00:21-04:00",
+  "num_results": 56,
+  "results": [
+    {
+      "section": "us",
+      "subsection": "",
+      "title": "Trumpâ€™s Taxes Show Chronic Losses and Years of Income Tax Avoidance",
+      "abstract": "The Times obtained Donald Trumpâ€™s tax information extending over more than two decades, revealing struggling properties, vast write-offs, an audit battle and hundreds of millions in debt coming due.",
+      "url": "https://www.nytimes.com/interactive/2020/09/27/us/donald-trump-taxes.html",
+      "uri": "nyt://interactive/a36f9b6d-eea3-5c5c-be2d-ee90a2637d75",
+      "byline": "By Russ Buettner, Susanne Craig and Mike McIntire",
+      "item_type": "Interactive",
+      "updated_date": "2020-09-28T22:27:15-04:00",
+      "created_date": "2020-09-27T17:07:33-04:00",
+      "published_date": "2020-09-27T17:07:33-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Trump Tax Returns",
+        "Conflicts of Interest",
+        "Presidential Election of 2020",
+        "Tax Credits, Deductions and Exemptions",
+        "Income Tax",
+        "United States Politics and Government",
+        "Lobbying and Lobbyists",
+        "Consultants",
+        "Real Estate (Commercial)",
+        "Real Estate and Housing (Residential)",
+        "Hotels and Travel Lodgings",
+        "Golf"
+      ],
+      "org_facet": [
+        "Trump Organization",
+        "Miss Universe Organization"
+      ],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/multimedia/thing-promo/thing-promo-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1521,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/multimedia/thing-promo/thing-promo-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/multimedia/thing-promo/thing-promo-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/multimedia/thing-promo/thing-promo-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/multimedia/thing-promo/thing-promo-articleInline.jpg",
+          "format": "Normal",
+          "height": 141,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Doug Mills/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3jmgeBf"
+    },
+    {
+      "section": "us",
+      "subsection": "",
+      "title": "Tax Records Reveal How Fame Gave Trump a $427 Million Lifeline",
+      "abstract": "â€œThe Apprenticeâ€ rescued Donald J. Trump, bringing him new sources of cash and a myth that would propel him to the White House.",
+      "url": "https://www.nytimes.com/interactive/2020/09/28/us/donald-trump-taxes-apprentice.html",
+      "uri": "nyt://interactive/bb73d4ad-85c4-5e5a-ade0-44b60bc8ebbf",
+      "byline": "By Mike McIntire",
+      "item_type": "Interactive",
+      "updated_date": "2020-09-28T22:27:20-04:00",
+      "created_date": "2020-09-28T21:16:47-04:00",
+      "published_date": "2020-09-28T21:16:47-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Trump Tax Returns",
+        "Presidential Election of 2020",
+        "Income Tax",
+        "United States Politics and Government",
+        "Tax Credits, Deductions and Exemptions"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/us/donald-trump-taxes-apprentice-1601329619557/donald-trump-taxes-apprentice-1601329619557-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/us/donald-trump-taxes-apprentice-1601329619557/donald-trump-taxes-apprentice-1601329619557-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/us/donald-trump-taxes-apprentice-1601329619557/donald-trump-taxes-apprentice-1601329619557-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/us/donald-trump-taxes-apprentice-1601329619557/donald-trump-taxes-apprentice-1601329619557-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/us/donald-trump-taxes-apprentice-1601329619557/donald-trump-taxes-apprentice-1601329619557-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/3j7AI0e"
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "Trump Deflects Questions About Taxes, but First Debate Has a New Issue",
+      "abstract": "While the presidentâ€™s Republican allies generally kept their silence, Democrats pounced and former Vice President Joseph R. Biden Jr., the partyâ€™s presidential candidate, posted a video noting that the president paid less in income taxes than everyday Americans.",
+      "url": "https://www.nytimes.com/2020/09/28/us/politics/trump-taxes-presidential-debate.html",
+      "uri": "nyt://article/ed2d343e-61bc-56d9-ac87-69dd131bafee",
+      "byline": "By Peter Baker and Michael D. Shear",
+      "item_type": "Article",
+      "updated_date": "2020-09-29T00:46:36-04:00",
+      "created_date": "2020-09-28T19:26:13-04:00",
+      "published_date": "2020-09-28T19:26:13-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Federal Taxes (US)",
+        "Presidential Election of 2020",
+        "United States Politics and Government",
+        "Debates (Political)",
+        "Income Tax"
+      ],
+      "org_facet": [
+        "Republican Party",
+        "Democratic Party",
+        "Internal Revenue Service"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Biden, Joseph R Jr"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/us/politics/28dc-trump-taxes-sub/28dc-trump-taxes-sub-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump attacked the Times report on Monday on Twitter without actually denying any of its particulars.",
+          "copyright": "Tom Brenner for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/us/politics/28dc-trump-taxes-sub/28dc-trump-taxes-sub-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump attacked the Times report on Monday on Twitter without actually denying any of its particulars.",
+          "copyright": "Tom Brenner for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/us/politics/28dc-trump-taxes-sub/28dc-trump-taxes-sub-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump attacked the Times report on Monday on Twitter without actually denying any of its particulars.",
+          "copyright": "Tom Brenner for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/us/politics/28dc-trump-taxes-sub/28dc-trump-taxes-sub-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump attacked the Times report on Monday on Twitter without actually denying any of its particulars.",
+          "copyright": "Tom Brenner for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/us/politics/28dc-trump-taxes-sub/28dc-trump-taxes-sub-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump attacked the Times report on Monday on Twitter without actually denying any of its particulars.",
+          "copyright": "Tom Brenner for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2G6HeGk"
+    },
+    {
+      "section": "us",
+      "subsection": "",
+      "title": "Charting an Empire: A Timeline of Trumpâ€™s Finances",
+      "abstract": "Tax records provide a <a href=\"https://www.nytimes.com/interactive/2020/09/27/us/donald-trump-taxes.html\";>detailed history</a> of President Trumpâ€™s business career, revealing huge losses, looming financial threats and a large, contested refund from the I.R.S.",
+      "url": "https://www.nytimes.com/interactive/2020/09/27/us/donald-trump-taxes-timeline.html",
+      "uri": "nyt://interactive/e117c88d-c8ce-50fc-b17a-385d4d9e6082",
+      "byline": "By Russ Buettner, Gabriel J.X. Dance, Keith Collins, Mike McIntire and Susanne Craig",
+      "item_type": "Interactive",
+      "updated_date": "2020-09-28T12:32:29-04:00",
+      "created_date": "2020-09-27T16:54:08-04:00",
+      "published_date": "2020-09-27T16:54:08-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Trump Tax Returns",
+        "Federal Taxes (US)",
+        "Tax Credits, Deductions and Exemptions",
+        "The Apprentice (TV Program)",
+        "Real Estate (Commercial)",
+        "Golf",
+        "Hotels and Travel Lodgings"
+      ],
+      "org_facet": [
+        "Trump Organization",
+        "Internal Revenue Service",
+        "Mar-a-Lago (Palm Beach, Fla)",
+        "Miss Universe Organization"
+      ],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/us/revolver-timeline-1601239024155/revolver-timeline-1601239024155-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 663,
+          "width": 994,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/us/revolver-timeline-1601239024155/revolver-timeline-1601239024155-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/us/revolver-timeline-1601239024155/revolver-timeline-1601239024155-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/us/revolver-timeline-1601239024155/revolver-timeline-1601239024155-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/us/revolver-timeline-1601239024155/revolver-timeline-1601239024155-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/2S0QH4k"
+    },
+    {
+      "section": "us",
+      "subsection": "",
+      "title": "18 Revelations From a Trove of Trump Tax Records",
+      "abstract": "Times reporters have obtained decades of tax information the president has hidden from public view. Here are some of the key findings.",
+      "url": "https://www.nytimes.com/2020/09/27/us/trump-taxes-takeaways.html",
+      "uri": "nyt://article/b950be50-d4bc-583b-8486-271f3af181b0",
+      "byline": "By David Leonhardt",
+      "item_type": "Article",
+      "updated_date": "2020-09-28T21:31:40-04:00",
+      "created_date": "2020-09-27T17:16:09-04:00",
+      "published_date": "2020-09-27T17:16:09-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Trump Tax Returns",
+        "Conflicts of Interest",
+        "Presidential Election of 2020",
+        "Income Tax",
+        "Lobbying and Lobbyists",
+        "The Apprentice (TV Program)",
+        "United States Politics and Government",
+        "Consultants",
+        "Tax Credits, Deductions and Exemptions",
+        "Credit and Debt"
+      ],
+      "org_facet": [
+        "Trump Organization",
+        "Internal Revenue Service"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Trump, Ivanka"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/23/multimedia/00picksix-1/merlin_165519444_e7317123-59fe-4d7e-9791-4486ba93060a-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Many of President Trumpâ€™s properties operate at a loss, but Trump Tower in Manhattan is an exception, regularly earning him more than $20 million a year.",
+          "copyright": "Haruka Sakaguchi for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/23/multimedia/00picksix-1/00picksix-1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Many of President Trumpâ€™s properties operate at a loss, but Trump Tower in Manhattan is an exception, regularly earning him more than $20 million a year.",
+          "copyright": "Haruka Sakaguchi for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/23/multimedia/00picksix-1/00picksix-1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Many of President Trumpâ€™s properties operate at a loss, but Trump Tower in Manhattan is an exception, regularly earning him more than $20 million a year.",
+          "copyright": "Haruka Sakaguchi for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/23/multimedia/00picksix-1/merlin_165519444_e7317123-59fe-4d7e-9791-4486ba93060a-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Many of President Trumpâ€™s properties operate at a loss, but Trump Tower in Manhattan is an exception, regularly earning him more than $20 million a year.",
+          "copyright": "Haruka Sakaguchi for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/23/multimedia/00picksix-1/merlin_165519444_e7317123-59fe-4d7e-9791-4486ba93060a-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Many of President Trumpâ€™s properties operate at a loss, but Trump Tower in Manhattan is an exception, regularly earning him more than $20 million a year.",
+          "copyright": "Haruka Sakaguchi for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3mUl8Y9"
+    },
+    {
+      "section": "us",
+      "subsection": "",
+      "title": "An Editorâ€™s Note on the Trump Tax Investigation",
+      "abstract": "The New York Times has examined decades of President Trumpâ€™s financial records, assembling the most comprehensive picture yet of his business dealings.",
+      "url": "https://www.nytimes.com/2020/09/27/us/trump-taxes-editors-note.html",
+      "uri": "nyt://article/381fa80a-edbe-5ee4-a1a6-6d422c3e097a",
+      "byline": "By Dean Baquet",
+      "item_type": "Article",
+      "updated_date": "2020-09-28T21:32:22-04:00",
+      "created_date": "2020-09-27T17:12:23-04:00",
+      "published_date": "2020-09-27T17:12:23-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Trump Tax Returns",
+        "Federal Taxes (US)",
+        "United States Politics and Government",
+        "Freedom of the Press",
+        "First Amendment (US Constitution)"
+      ],
+      "org_facet": [
+        "New York Times"
+      ],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/multimedia/taxes-note/taxes-note-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/multimedia/taxes-note/taxes-note-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/multimedia/taxes-note/taxes-note-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/multimedia/taxes-note/taxes-note-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/multimedia/taxes-note/taxes-note-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Doug Mills/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2G7SJx4"
+    },
+    {
+      "section": "nyregion",
+      "subsection": "",
+      "title": "â€˜Weâ€™re at Warâ€™: New York City Faces a Financial Abyss",
+      "abstract": "The pandemic has crippled tourism, retail and the culture sector. The damage could last years, and layoffs, service cuts and added debt are all on the table.",
+      "url": "https://www.nytimes.com/2020/09/28/nyregion/nyc-budget-coronavirus.html",
+      "uri": "nyt://article/b5a0a4eb-c034-5a2e-92d5-5ceb762373b9",
+      "byline": "By Dana Rubinstein",
+      "item_type": "Article",
+      "updated_date": "2020-09-29T00:49:45-04:00",
+      "created_date": "2020-09-28T17:13:09-04:00",
+      "published_date": "2020-09-28T17:13:09-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Budgets and Budgeting",
+        "Politics and Government",
+        "Federal Aid (US)",
+        "Credit and Debt"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "New York City"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/nyregion/00nyvirus-economy1/merlin_176778276_9ece9c07-1ac4-4c15-8685-751b9e90865a-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "At Manhattanâ€™s major retail corridors, like Hudson Yards, business has been slow to recover.",
+          "copyright": "Spencer Platt/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/nyregion/00nyvirus-economy1/00nyvirus-economy1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "At Manhattanâ€™s major retail corridors, like Hudson Yards, business has been slow to recover.",
+          "copyright": "Spencer Platt/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/nyregion/00nyvirus-economy1/00nyvirus-economy1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "At Manhattanâ€™s major retail corridors, like Hudson Yards, business has been slow to recover.",
+          "copyright": "Spencer Platt/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/nyregion/00nyvirus-economy1/merlin_176778276_9ece9c07-1ac4-4c15-8685-751b9e90865a-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "At Manhattanâ€™s major retail corridors, like Hudson Yards, business has been slow to recover.",
+          "copyright": "Spencer Platt/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/nyregion/00nyvirus-economy1/merlin_176778276_9ece9c07-1ac4-4c15-8685-751b9e90865a-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "At Manhattanâ€™s major retail corridors, like Hudson Yards, business has been slow to recover.",
+          "copyright": "Spencer Platt/Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3id9fZE"
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "Behind the White House Effort to Pressure the C.D.C. on School Openings",
+      "abstract": "Documents and interviews show how senior officials sought to play down the risks of sending children back to the classroom, alarming public health experts.",
+      "url": "https://www.nytimes.com/2020/09/28/us/politics/white-house-cdc-coronavirus-schools.html",
+      "uri": "nyt://article/078e8397-48a4-5c82-b824-dd46ee58f74d",
+      "byline": "By Mark Mazzetti, Noah Weiland and Sharon LaFraniere",
+      "item_type": "Article",
+      "updated_date": "2020-09-29T00:47:38-04:00",
+      "created_date": "2020-09-28T20:14:58-04:00",
+      "published_date": "2020-09-28T20:14:58-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Coronavirus Reopenings",
+        "Coronavirus (2019-nCoV)",
+        "United States Politics and Government",
+        "Pediatric Inflammatory Multisystem Syndrome (PIMS)",
+        "Education (K-12)",
+        "Presidential Election of 2020"
+      ],
+      "org_facet": [
+        "Centers for Disease Control and Prevention",
+        "Health and Human Services Department",
+        "Substance Abuse and Mental Health Services Administration",
+        "American Academy of Pediatrics"
+      ],
+      "per_facet": [
+        "Birx, Deborah L",
+        "Redfield, Robert R",
+        "Troye, Olivia",
+        "Meadows, Mark R (1959- )",
+        "Pence, Mike",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/us/politics/28dc-virus-schools1/merlin_175710369_e40a23fd-bd53-4623-8319-5efad2a06684-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An elementary school classroom in Royal City, Wash., last month. President Trump and his team have remained defiant in their push for schools to open, even as coronavirus cases have once again ticked up.",
+          "copyright": "Ruth Fremson/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/us/politics/28dc-virus-schools1/28dc-virus-schools1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An elementary school classroom in Royal City, Wash., last month. President Trump and his team have remained defiant in their push for schools to open, even as coronavirus cases have once again ticked up.",
+          "copyright": "Ruth Fremson/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/us/politics/28dc-virus-schools1/28dc-virus-schools1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An elementary school classroom in Royal City, Wash., last month. President Trump and his team have remained defiant in their push for schools to open, even as coronavirus cases have once again ticked up.",
+          "copyright": "Ruth Fremson/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/us/politics/28dc-virus-schools1/merlin_175710369_e40a23fd-bd53-4623-8319-5efad2a06684-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An elementary school classroom in Royal City, Wash., last month. President Trump and his team have remained defiant in their push for schools to open, even as coronavirus cases have once again ticked up.",
+          "copyright": "Ruth Fremson/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/us/politics/28dc-virus-schools1/merlin_175710369_e40a23fd-bd53-4623-8319-5efad2a06684-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An elementary school classroom in Royal City, Wash., last month. President Trump and his team have remained defiant in their push for schools to open, even as coronavirus cases have once again ticked up.",
+          "copyright": "Ruth Fremson/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3cIuVMq"
+    },
+    {
+      "section": "us",
+      "subsection": "",
+      "title": "Grand Juror in Breonna Taylor Case Says Deliberations Were Misrepresented",
+      "abstract": "The Kentucky attorney generalâ€™s office said it would release the panelâ€™s recordings after a grand juror contended in a court filing that its discussions were inaccurately characterized.",
+      "url": "https://www.nytimes.com/2020/09/28/us/breonna-taylor-grand-jury.html",
+      "uri": "nyt://article/e8417d04-310e-5a35-9e9f-27f727ec33d4",
+      "byline": "By Rukmini Callimachi",
+      "item_type": "Article",
+      "updated_date": "2020-09-29T01:30:32-04:00",
+      "created_date": "2020-09-28T23:00:49-04:00",
+      "published_date": "2020-09-28T23:00:49-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Jury System",
+        "Police Brutality, Misconduct and Shootings",
+        "Murders, Attempted Murders and Homicides",
+        "Decisions and Verdicts"
+      ],
+      "org_facet": [
+        "Police Department (Louisville, Ky)"
+      ],
+      "per_facet": [
+        "Hankison, Brett (Louisville, Ky, Police Officer)",
+        "Cosgrove, Myles (Louisville, Ky, Police Officer)",
+        "Cameron, Daniel J (1985- )",
+        "Mattingly, Jon (Louisville, Ky, Police Officer)",
+        "Taylor, Breonna (1993-2020)"
+      ],
+      "geo_facet": [
+        "Kentucky"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/us/28breonnajury/28breonnajury-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Breonna Taylor's family and the lawyer Ben Crump, right, said the charges a Kentucky grand jury agreed upon in the police killing of Ms. Taylor were not enough.",
+          "copyright": "Chang W. Lee/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/us/28breonnajury/28breonnajury-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Breonna Taylor's family and the lawyer Ben Crump, right, said the charges a Kentucky grand jury agreed upon in the police killing of Ms. Taylor were not enough.",
+          "copyright": "Chang W. Lee/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/us/28breonnajury/28breonnajury-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Breonna Taylor's family and the lawyer Ben Crump, right, said the charges a Kentucky grand jury agreed upon in the police killing of Ms. Taylor were not enough.",
+          "copyright": "Chang W. Lee/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/us/28breonnajury/28breonnajury-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Breonna Taylor's family and the lawyer Ben Crump, right, said the charges a Kentucky grand jury agreed upon in the police killing of Ms. Taylor were not enough.",
+          "copyright": "Chang W. Lee/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/us/28breonnajury/28breonnajury-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Breonna Taylor's family and the lawyer Ben Crump, right, said the charges a Kentucky grand jury agreed upon in the police killing of Ms. Taylor were not enough.",
+          "copyright": "Chang W. Lee/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3l1Icmd"
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "How Barrett and the Court Fight Are Influencing Swing Voters",
+      "abstract": "Americans who are still making up their minds in the presidential contest are weighing a complex set of issues and applying a range of viewpoints to the two candidates. They donâ€™t fit neatly into partisan stereotypes.",
+      "url": "https://www.nytimes.com/2020/09/28/us/politics/amy-barrett-supreme-court-voters.html",
+      "uri": "nyt://article/ffd82e7d-feaf-5907-8a44-ff9acad0e51f",
+      "byline": "By Reid J. Epstein",
+      "item_type": "Article",
+      "updated_date": "2020-09-29T00:49:02-04:00",
+      "created_date": "2020-09-28T18:58:29-04:00",
+      "published_date": "2020-09-28T18:58:29-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "Appointments and Executive Changes",
+        "United States Politics and Government",
+        "Debates (Political)",
+        "Politics and Government",
+        "Conservatism (US Politics)"
+      ],
+      "org_facet": [
+        "Supreme Court (US)"
+      ],
+      "per_facet": [
+        "Barrett, Amy Coney",
+        "Biden, Joseph R Jr",
+        "Ginsburg, Ruth Bader",
+        "Sanders, Bernard",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/us/politics/29barrett-undecideds-top/merlin_177640209_75792ff6-3808-4229-aa32-7b13e91f3902-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Few voters interviewed by The Times exhibited strong opinions about Judge Amy Coney Barrett herself, but nearly all of them felt strongly about whether President Trump and his Senate Republican allies should push to confirm her.",
+          "copyright": "Al Drago for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/us/politics/29barrett-undecideds-top/29barrett-undecideds-top-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Few voters interviewed by The Times exhibited strong opinions about Judge Amy Coney Barrett herself, but nearly all of them felt strongly about whether President Trump and his Senate Republican allies should push to confirm her.",
+          "copyright": "Al Drago for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/us/politics/29barrett-undecideds-top/29barrett-undecideds-top-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Few voters interviewed by The Times exhibited strong opinions about Judge Amy Coney Barrett herself, but nearly all of them felt strongly about whether President Trump and his Senate Republican allies should push to confirm her.",
+          "copyright": "Al Drago for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/us/politics/29barrett-undecideds-top/merlin_177640209_75792ff6-3808-4229-aa32-7b13e91f3902-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Few voters interviewed by The Times exhibited strong opinions about Judge Amy Coney Barrett herself, but nearly all of them felt strongly about whether President Trump and his Senate Republican allies should push to confirm her.",
+          "copyright": "Al Drago for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/us/politics/29barrett-undecideds-top/merlin_177640209_75792ff6-3808-4229-aa32-7b13e91f3902-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Few voters interviewed by The Times exhibited strong opinions about Judge Amy Coney Barrett herself, but nearly all of them felt strongly about whether President Trump and his Senate Republican allies should push to confirm her.",
+          "copyright": "Al Drago for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/347FOmT"
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "Supreme Court Vacancy Hasnâ€™t Boosted Trump in Pennsylvania, Poll Shows",
+      "abstract": "President Trump had counted on his court nomination over the weekend to shift the election dynamic away from his handling of the coronavirus pandemic. But it has not reset the race in the key battleground state.",
+      "url": "https://www.nytimes.com/2020/09/28/us/politics/supreme-court-pennsylvania-poll.html",
+      "uri": "nyt://article/d44ee290-c75b-5627-bf25-3d5ea280353f",
+      "byline": "By Trip Gabriel and Isabella GrullÃ³n Paz",
+      "item_type": "Article",
+      "updated_date": "2020-09-29T01:01:15-04:00",
+      "created_date": "2020-09-28T17:18:09-04:00",
+      "published_date": "2020-09-28T17:18:09-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Presidential Election of 2020"
+      ],
+      "org_facet": [
+        "New York Times",
+        "Siena College"
+      ],
+      "per_facet": [
+        "Barrett, Amy Coney",
+        "Biden, Joseph R Jr",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "Pennsylvania"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/us/politics/28PA-Poll-promo/28PA-Poll-promo-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 830,
+          "width": 1246,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/us/politics/28PA-Poll-promo/28PA-Poll-promo-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/us/politics/28PA-Poll-promo/28PA-Poll-promo-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/us/politics/28PA-Poll-promo/28PA-Poll-promo-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/us/politics/28PA-Poll-promo/28PA-Poll-promo-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3cQ7ukp"
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "Supreme Court Nominee Barrett Prepares to Meet Senators",
+      "abstract": "The confirmation process cranked into motion on Capitol Hill as the Senate Judiciary Committee began scrubbing Judge Amy Coney Barrettâ€™s background.",
+      "url": "https://www.nytimes.com/2020/09/28/us/politics/supreme-court-barrett-confirmation.html",
+      "uri": "nyt://article/f84d0418-b7de-5c25-8c79-cd4906481eb8",
+      "byline": "By Nicholas Fandos",
+      "item_type": "Article",
+      "updated_date": "2020-09-29T01:02:45-04:00",
+      "created_date": "2020-09-28T16:36:58-04:00",
+      "published_date": "2020-09-28T16:36:58-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Appointments and Executive Changes",
+        "United States Politics and Government",
+        "Courts and the Judiciary",
+        "Patient Protection and Affordable Care Act (2010)"
+      ],
+      "org_facet": [
+        "Supreme Court (US)",
+        "Senate Committee on the Judiciary",
+        "Senate"
+      ],
+      "per_facet": [
+        "Barrett, Amy Coney"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/us/politics/28dc-scotus1/merlin_177743190_e05dfe15-81ae-4beb-b1a3-92524fef885f-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Supreme Court seen from inside the Capitol on Monday. A flurry of activity was underway in the Senate on Monday to fill the open seat on the court.",
+          "copyright": "Anna Moneymaker for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/us/politics/28dc-scotus1/28dc-scotus1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Supreme Court seen from inside the Capitol on Monday. A flurry of activity was underway in the Senate on Monday to fill the open seat on the court.",
+          "copyright": "Anna Moneymaker for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/us/politics/28dc-scotus1/28dc-scotus1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Supreme Court seen from inside the Capitol on Monday. A flurry of activity was underway in the Senate on Monday to fill the open seat on the court.",
+          "copyright": "Anna Moneymaker for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/us/politics/28dc-scotus1/merlin_177743190_e05dfe15-81ae-4beb-b1a3-92524fef885f-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Supreme Court seen from inside the Capitol on Monday. A flurry of activity was underway in the Senate on Monday to fill the open seat on the court.",
+          "copyright": "Anna Moneymaker for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/us/politics/28dc-scotus1/merlin_177743190_e05dfe15-81ae-4beb-b1a3-92524fef885f-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Supreme Court seen from inside the Capitol on Monday. A flurry of activity was underway in the Senate on Monday to fill the open seat on the court.",
+          "copyright": "Anna Moneymaker for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3jby0af"
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "Trump Denounces Anti-Catholic Bias Even as He Attacks Bidenâ€™s Faith",
+      "abstract": "President Trump has accused Joe Biden, a Catholic, of being â€œagainst Godâ€ and â€œagainst the Bible.â€ Of Judge Amy Coney Barrett, he has claimed about Democrats, â€œTheyâ€™re going after her Catholicism.â€",
+      "url": "https://www.nytimes.com/2020/09/28/us/politics/trump-biden-catholics.html",
+      "uri": "nyt://article/adc7a4bc-3fca-5f57-8c58-2cf8eb6f617e",
+      "byline": "By Annie Karni",
+      "item_type": "Article",
+      "updated_date": "2020-09-29T01:00:29-04:00",
+      "created_date": "2020-09-28T18:41:15-04:00",
+      "published_date": "2020-09-28T18:41:15-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Presidential Election of 2020"
+      ],
+      "org_facet": [
+        "Roman Catholic Church"
+      ],
+      "per_facet": [
+        "Barrett, Amy Coney",
+        "Biden, Joseph R Jr",
+        "Ginsburg, Ruth Bader",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/us/politics/28CATHOLICISM-POLITICS1/merlin_177697965_d7a606f3-8e84-4620-ae7d-6efdcfb94dcd-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Judge Amy Coney Barrett spoke on Saturday in the White House Rose Garden after being nominated by President Trump to the Supreme Court.",
+          "copyright": "Al Drago for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/us/politics/28CATHOLICISM-POLITICS1/28CATHOLICISM-POLITICS1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Judge Amy Coney Barrett spoke on Saturday in the White House Rose Garden after being nominated by President Trump to the Supreme Court.",
+          "copyright": "Al Drago for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/us/politics/28CATHOLICISM-POLITICS1/28CATHOLICISM-POLITICS1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Judge Amy Coney Barrett spoke on Saturday in the White House Rose Garden after being nominated by President Trump to the Supreme Court.",
+          "copyright": "Al Drago for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/us/politics/28CATHOLICISM-POLITICS1/merlin_177697965_d7a606f3-8e84-4620-ae7d-6efdcfb94dcd-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Judge Amy Coney Barrett spoke on Saturday in the White House Rose Garden after being nominated by President Trump to the Supreme Court.",
+          "copyright": "Al Drago for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/us/politics/28CATHOLICISM-POLITICS1/merlin_177697965_d7a606f3-8e84-4620-ae7d-6efdcfb94dcd-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Judge Amy Coney Barrett spoke on Saturday in the White House Rose Garden after being nominated by President Trump to the Supreme Court.",
+          "copyright": "Al Drago for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3mVLcCp"
+    },
+    {
+      "section": "briefing",
+      "subsection": "",
+      "title": "Trumpâ€™s Taxes, Presidential Debate, Virus Deaths: Your Monday Evening Briefing",
+      "abstract": "Hereâ€™s what you need to know at the end of the day.",
+      "url": "https://www.nytimes.com/2020/09/28/briefing/trumps-taxes-presidential-debate-virus-deaths.html",
+      "uri": "nyt://article/7bcb5d79-05e9-5602-adfc-a89974a138c2",
+      "byline": "By Victoria Shannon and Judith Levitt",
+      "item_type": "Article",
+      "updated_date": "2020-09-28T17:41:03-04:00",
+      "created_date": "2020-09-28T17:37:28-04:00",
+      "published_date": "2020-09-28T17:37:28-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Coronavirus Reopenings",
+        "Coronavirus Aid, Relief, and Economic Security Act (2020)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/multimedia/28virus-india-evebrief-promo/merlin_177725532_66d1d283-de58-43de-9904-e58abe1665c5-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Rajesh Kumar Singh/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/multimedia/28virus-india-evebrief-promo/merlin_177725532_66d1d283-de58-43de-9904-e58abe1665c5-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Rajesh Kumar Singh/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/multimedia/28virus-india-evebrief-promo/merlin_177725532_66d1d283-de58-43de-9904-e58abe1665c5-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Rajesh Kumar Singh/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/multimedia/28virus-india-evebrief-promo/merlin_177725532_66d1d283-de58-43de-9904-e58abe1665c5-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Rajesh Kumar Singh/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/multimedia/28virus-india-evebrief-promo/merlin_177725532_66d1d283-de58-43de-9904-e58abe1665c5-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Rajesh Kumar Singh/Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/2GmHIYs"
+    },
+    {
+      "section": "podcasts",
+      "subsection": "the-daily",
+      "title": "The Past, Present and Future of Amy Coney Barrett",
+      "abstract": "The judgeâ€™s nomination to the Supreme Court has enthused conservatives. What does her record say about the role she might play as a justice?",
+      "url": "https://www.nytimes.com/2020/09/28/podcasts/the-daily/trump-supreme-court-amy-coney-barrett.html",
+      "uri": "nyt://article/98e4edf7-1b20-50d9-aa57-6e98103155aa",
+      "byline": "",
+      "item_type": "Article",
+      "updated_date": "2020-09-28T12:28:12-04:00",
+      "created_date": "2020-09-28T06:00:11-04:00",
+      "published_date": "2020-09-28T06:00:11-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Appointments and Executive Changes",
+        "Politics and Government"
+      ],
+      "org_facet": [
+        "Supreme Court (US)",
+        "Republican Party"
+      ],
+      "per_facet": [
+        "Barrett, Amy Coney",
+        "Scalia, Antonin",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/world/28daily-1sub/merlin_177635175_88f9da0f-fbc5-4be1-a7f2-d10bad089f52-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Judge Amy Coney Barrett with President Trump at the ceremony on Saturday to announce her nomination to the Supreme Court.",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/world/28daily-1sub/28daily-1sub-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Judge Amy Coney Barrett with President Trump at the ceremony on Saturday to announce her nomination to the Supreme Court.",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/world/28daily-1sub/28daily-1sub-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Judge Amy Coney Barrett with President Trump at the ceremony on Saturday to announce her nomination to the Supreme Court.",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/world/28daily-1sub/merlin_177635175_88f9da0f-fbc5-4be1-a7f2-d10bad089f52-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Judge Amy Coney Barrett with President Trump at the ceremony on Saturday to announce her nomination to the Supreme Court.",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/world/28daily-1sub/merlin_177635175_88f9da0f-fbc5-4be1-a7f2-d10bad089f52-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Judge Amy Coney Barrett with President Trump at the ceremony on Saturday to announce her nomination to the Supreme Court.",
+          "copyright": "Doug Mills/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3i3ArKw"
+    },
+    {
+      "section": "opinion",
+      "subsection": "",
+      "title": "Elon Musk: â€˜A.I. Doesnâ€™t Need to Hate Us to Destroy Usâ€™",
+      "abstract": "In a conversation with Kara Swisher, the billionaire entrepreneur talks space-faring civilization, battery-powered everything and computer chips in your skull.",
+      "url": "https://www.nytimes.com/2020/09/28/opinion/sway-kara-swisher-elon-musk.html",
+      "uri": "nyt://article/0e5cbd26-7b4b-5e6c-a2e6-638f74041f30",
+      "byline": "",
+      "item_type": "Article",
+      "updated_date": "2020-09-28T12:28:13-04:00",
+      "created_date": "2020-09-28T05:00:05-04:00",
+      "published_date": "2020-09-28T05:00:05-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Batteries",
+        "Coronavirus (2019-nCoV)",
+        "Electric and Hybrid Vehicles",
+        "Artificial Intelligence",
+        "Private Spaceflight",
+        "Alternative and Renewable Energy",
+        "Oil (Petroleum) and Gasoline"
+      ],
+      "org_facet": [
+        "Tesla Motors Inc",
+        "Neuralink"
+      ],
+      "per_facet": [
+        "Musk, Elon"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/opinion/28sway-musk-image/28sway-musk-image-superJumbo.png",
+          "format": "superJumbo",
+          "height": 1619,
+          "width": 1619,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Alexander Becher/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/opinion/28sway-musk-image/28sway-musk-image-thumbStandard.png",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Alexander Becher/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/opinion/28sway-musk-image/28sway-musk-image-thumbLarge.png",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Alexander Becher/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/opinion/28sway-musk-image/28sway-musk-image-mediumThreeByTwo210-v2.png",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Alexander Becher/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/opinion/28sway-musk-image/28sway-musk-image-articleInline.png",
+          "format": "Normal",
+          "height": 190,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Alexander Becher/EPA, via Shutterstock"
+        }
+      ],
+      "short_url": "https://nyti.ms/2S7arDA"
+    },
+    {
+      "section": "opinion",
+      "subsection": "",
+      "title": "The Picture of a Broken Tax System",
+      "abstract": "Donald Trumpâ€™s tax returns illustrate the profound inequities of the tax code and the shambolic state of federal enforcement.",
+      "url": "https://www.nytimes.com/2020/09/28/opinion/trump-tax-code.html",
+      "uri": "nyt://article/230f845b-df59-5f5f-b829-055da6ed8758",
+      "byline": "By The Editorial Board",
+      "item_type": "Article",
+      "updated_date": "2020-09-29T00:10:15-04:00",
+      "created_date": "2020-09-28T19:07:54-04:00",
+      "published_date": "2020-09-28T19:07:54-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Federal Taxes (US)",
+        "Income Tax",
+        "Taxation",
+        "Tax Evasion"
+      ],
+      "org_facet": [
+        "Internal Revenue Service"
+      ],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/opinion/28taxes/28taxes-superJumbo-v10.jpg",
+          "format": "superJumbo",
+          "height": 2046,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/opinion/28taxes/28taxes-thumbStandard-v10.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/opinion/28taxes/28taxes-thumbLarge-v10.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/opinion/28taxes/28taxes-mediumThreeByTwo210-v11.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/opinion/28taxes/28taxes-articleInline-v10.jpg",
+          "format": "Normal",
+          "height": 190,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/30xtueX"
+    },
+    {
+      "section": "opinion",
+      "subsection": "",
+      "title": "â€˜I Love New Yorkâ€™ Is More Than a Motto",
+      "abstract": "As retail chains abandon Manhattan, New Yorkers can rebuild a city that is more hospitable to its small businesses.",
+      "url": "https://www.nytimes.com/2020/09/28/opinion/new-york-small-businesses.html",
+      "uri": "nyt://article/e855c11a-f9ac-5da5-9158-8727392f56bf",
+      "byline": "By Michael Angelo",
+      "item_type": "Article",
+      "updated_date": "2020-09-28T22:32:59-04:00",
+      "created_date": "2020-09-28T15:30:07-04:00",
+      "published_date": "2020-09-28T15:30:07-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Shutdowns (Institutional)",
+        "Small Business",
+        "Renting and Leasing (Real Estate)",
+        "Coronavirus (2019-nCoV)",
+        "E-Commerce",
+        "Shopping and Retail",
+        "Zoning"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "New York City",
+        "Manhattan (NYC)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/opinion/28Angelo-sub/merlin_177571971_cad11002-97a0-415f-9a88-fbe13ac15782-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1536,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Ashley Gilbertson for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/opinion/28Angelo-sub/merlin_177571971_cad11002-97a0-415f-9a88-fbe13ac15782-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Ashley Gilbertson for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/opinion/28Angelo-sub/merlin_177571971_cad11002-97a0-415f-9a88-fbe13ac15782-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Ashley Gilbertson for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/opinion/28Angelo-sub/merlin_177571971_cad11002-97a0-415f-9a88-fbe13ac15782-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Ashley Gilbertson for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/opinion/28Angelo-sub/merlin_177571971_cad11002-97a0-415f-9a88-fbe13ac15782-articleInline.jpg",
+          "format": "Normal",
+          "height": 143,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Ashley Gilbertson for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2EKecM6"
+    },
+    {
+      "section": "opinion",
+      "subsection": "",
+      "title": "Trumpâ€™s Debt, His Future and Ours",
+      "abstract": "The president â€” our chief law enforcement and national security official â€” could be facing huge liabilities. Thatâ€™s chilling.",
+      "url": "https://www.nytimes.com/2020/09/28/opinion/trump-taxes-debt.html",
+      "uri": "nyt://article/7481b237-8dd3-5010-9e48-a87bbfa2f8d4",
+      "byline": "By Paul Krugman",
+      "item_type": "Article",
+      "updated_date": "2020-09-29T00:11:14-04:00",
+      "created_date": "2020-09-28T19:17:44-04:00",
+      "published_date": "2020-09-28T19:17:44-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Federal Taxes (US)",
+        "United States Politics and Government",
+        "Presidential Election of 2020",
+        "Ethics and Official Misconduct"
+      ],
+      "org_facet": [
+        "Trump Organization"
+      ],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/opinion/28krugmanWeb/28krugmanWeb-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Stefani Reynolds for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/opinion/28krugmanWeb/28krugmanWeb-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Stefani Reynolds for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/opinion/28krugmanWeb/28krugmanWeb-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Stefani Reynolds for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/opinion/28krugmanWeb/28krugmanWeb-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Stefani Reynolds for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/opinion/28krugmanWeb/28krugmanWeb-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Stefani Reynolds for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/344SUBj"
+    },
+    {
+      "section": "opinion",
+      "subsection": "",
+      "title": "Does Donald Trump Need a Bailout?",
+      "abstract": "Maybe thatâ€™s why he sucks up to Putin.",
+      "url": "https://www.nytimes.com/2020/09/28/opinion/trump-tax-returns-russia.html",
+      "uri": "nyt://article/e389545a-90a1-5560-80d5-5584a8d5916d",
+      "byline": "By Michelle Goldberg",
+      "item_type": "Article",
+      "updated_date": "2020-09-29T00:13:40-04:00",
+      "created_date": "2020-09-28T20:36:13-04:00",
+      "published_date": "2020-09-28T20:36:13-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "United States International Relations",
+        "Federal Taxes (US)",
+        "United States Politics and Government",
+        "Tax Evasion",
+        "Rage (Book)",
+        "Disloyal: A Memoir: The True Story of the Former Personal Attorney to President Donald J Trump (Book)"
+      ],
+      "org_facet": [
+        "Internal Revenue Service",
+        "Trump Tower (Manhattan, NY)"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Putin, Vladimir V"
+      ],
+      "geo_facet": [
+        "Florida",
+        "United States"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/opinion/28Goldberg-01/merlin_141363000_d541ac85-dde1-4d53-8576-6a7353bc412d-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1177,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Donald Trump, with Vladimir Putin in Helsinki in 2018, is â€œin a tightening financial vise,â€ The Times reports.",
+          "copyright": "Brendan Smialowski/Agence France-Presse â€” Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/opinion/28Goldberg-01/28Goldberg-01-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Donald Trump, with Vladimir Putin in Helsinki in 2018, is â€œin a tightening financial vise,â€ The Times reports.",
+          "copyright": "Brendan Smialowski/Agence France-Presse â€” Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/opinion/28Goldberg-01/28Goldberg-01-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Donald Trump, with Vladimir Putin in Helsinki in 2018, is â€œin a tightening financial vise,â€ The Times reports.",
+          "copyright": "Brendan Smialowski/Agence France-Presse â€” Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/opinion/28Goldberg-01/28Goldberg-01-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Donald Trump, with Vladimir Putin in Helsinki in 2018, is â€œin a tightening financial vise,â€ The Times reports.",
+          "copyright": "Brendan Smialowski/Agence France-Presse â€” Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/opinion/28Goldberg-01/merlin_141363000_d541ac85-dde1-4d53-8576-6a7353bc412d-articleInline.jpg",
+          "format": "Normal",
+          "height": 109,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Donald Trump, with Vladimir Putin in Helsinki in 2018, is â€œin a tightening financial vise,â€ The Times reports.",
+          "copyright": "Brendan Smialowski/Agence France-Presse â€” Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3cJ0a9V"
+    },
+    {
+      "section": "opinion",
+      "subsection": "",
+      "title": "Meet a Secret Trump Voter",
+      "abstract": "â€˜Being a lesbian whoâ€™s voting for Trump is like coming out of the closet again.â€™",
+      "url": "https://www.nytimes.com/2020/09/28/opinion/trump-voters.html",
+      "uri": "nyt://article/012a2509-ee82-5845-a8f7-0e73a4e17f19",
+      "byline": "By Bret Stephens",
+      "item_type": "Article",
+      "updated_date": "2020-09-29T00:10:22-04:00",
+      "created_date": "2020-09-28T19:30:17-04:00",
+      "published_date": "2020-09-28T19:30:17-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "United States Politics and Government",
+        "Polls and Public Opinion",
+        "Presidential Election of 2020"
+      ],
+      "org_facet": [
+        "Democratic Party"
+      ],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Clinton, Bill",
+        "Clinton, Hillary Rodham",
+        "de Blasio, Bill",
+        "Ford, Christine Blasey",
+        "Harris, Kamala D",
+        "Kavanaugh, Brett M",
+        "Sanders, Bernard"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/opinion/28stephensSub/merlin_177750105_bfb6d2b7-3b17-44ad-91d0-59942dec1260-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Robert McCarthy"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/opinion/28stephensSub/28stephensSub-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Robert McCarthy"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/opinion/28stephensSub/28stephensSub-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Robert McCarthy"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/opinion/28stephensSub/merlin_177750105_bfb6d2b7-3b17-44ad-91d0-59942dec1260-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Robert McCarthy"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/opinion/28stephensSub/merlin_177750105_bfb6d2b7-3b17-44ad-91d0-59942dec1260-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Robert McCarthy"
+        }
+      ],
+      "short_url": "https://nyti.ms/3mTnMNM"
+    },
+    {
+      "section": "opinion",
+      "subsection": "",
+      "title": "Happy Birthday, PBS. Please Save Us.",
+      "abstract": "Next month will mark 50 years of television that aims to educate and unite.",
+      "url": "https://www.nytimes.com/2020/09/27/opinion/pbs-50th-anniversary.html",
+      "uri": "nyt://article/28c55bb7-f98e-5cc5-87bb-e6e74cdc60fe",
+      "byline": "By Margaret Renkl",
+      "item_type": "Article",
+      "updated_date": "2020-09-28T20:37:55-04:00",
+      "created_date": "2020-09-27T19:00:07-04:00",
+      "published_date": "2020-09-27T19:00:07-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Television",
+        "Public Broadcasting",
+        "News and News Media",
+        "Documentary Films and Programs"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Burns, Ken"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/opinion/00renkl1/00renkl1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Big Bird and friends on the set of â€œSesame Streetâ€ in 1995.",
+          "copyright": "Sara Krulwich/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/opinion/00renkl1/00renkl1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Big Bird and friends on the set of â€œSesame Streetâ€ in 1995.",
+          "copyright": "Sara Krulwich/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/opinion/00renkl1/00renkl1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Big Bird and friends on the set of â€œSesame Streetâ€ in 1995.",
+          "copyright": "Sara Krulwich/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/opinion/00renkl1/00renkl1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Big Bird and friends on the set of â€œSesame Streetâ€ in 1995.",
+          "copyright": "Sara Krulwich/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/opinion/00renkl1/00renkl1-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Big Bird and friends on the set of â€œSesame Streetâ€ in 1995.",
+          "copyright": "Sara Krulwich/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3kTssBq"
+    },
+    {
+      "section": "opinion",
+      "subsection": "letters",
+      "title": "The Revelations About Donald Trumpâ€™s Taxes",
+      "abstract": "Readers react to The Timesâ€™s investigation of the presidentâ€™s finances.",
+      "url": "https://www.nytimes.com/2020/09/28/opinion/letters/trump-taxes.html",
+      "uri": "nyt://article/edf68958-ef44-5a5f-a653-9a1f805fbc7e",
+      "byline": "",
+      "item_type": "Article",
+      "updated_date": "2020-09-29T00:10:28-04:00",
+      "created_date": "2020-09-28T13:58:05-04:00",
+      "published_date": "2020-09-28T13:58:05-04:00",
+      "material_type_facet": "",
+      "kicker": "letters",
+      "des_facet": [
+        "United States Politics and Government",
+        "Income Tax",
+        "Presidential Election of 2020"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J",
+        "Biden, Joseph R Jr"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/us/politics/27trump-presser/merlin_177700350_c07e0642-457d-44b5-9107-e798b2d9de2b-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1367,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump during a news conference at the White House on Sunday.",
+          "copyright": "Carolyn Kaster/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/us/politics/27trump-presser/27trump-presser-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump during a news conference at the White House on Sunday.",
+          "copyright": "Carolyn Kaster/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/us/politics/27trump-presser/27trump-presser-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump during a news conference at the White House on Sunday.",
+          "copyright": "Carolyn Kaster/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/us/politics/27trump-presser/27trump-presser-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump during a news conference at the White House on Sunday.",
+          "copyright": "Carolyn Kaster/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/us/politics/27trump-presser/merlin_177700350_c07e0642-457d-44b5-9107-e798b2d9de2b-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump during a news conference at the White House on Sunday.",
+          "copyright": "Carolyn Kaster/Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/3473Zlp"
+    },
+    {
+      "section": "opinion",
+      "subsection": "",
+      "title": "What Parents Need to Know About School Coronavirus Case Data",
+      "abstract": "Some reported cases come from districts that are operating fully remotely, or districts in which the cases occurred before school was open.",
+      "url": "https://www.nytimes.com/2020/09/28/opinion/schools-coronavirus.html",
+      "uri": "nyt://article/6d90de7a-0dbb-530d-b798-c8cbeeb09c40",
+      "byline": "By Emily Oster",
+      "item_type": "Article",
+      "updated_date": "2020-09-29T00:11:28-04:00",
+      "created_date": "2020-09-28T15:00:10-04:00",
+      "published_date": "2020-09-28T15:00:10-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Coronavirus Reopenings",
+        "Education (K-12)",
+        "Coronavirus (2019-nCoV)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "United States"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/opinion/28Oster/merlin_177167847_cf552312-81c5-4537-8d31-308cca58bac3-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Students wear protective masks as they arrive for classes at the Immaculate Conception School in the Bronx.",
+          "copyright": "John Minchillo/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/opinion/28Oster/28Oster-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Students wear protective masks as they arrive for classes at the Immaculate Conception School in the Bronx.",
+          "copyright": "John Minchillo/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/opinion/28Oster/28Oster-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Students wear protective masks as they arrive for classes at the Immaculate Conception School in the Bronx.",
+          "copyright": "John Minchillo/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/opinion/28Oster/merlin_177167847_cf552312-81c5-4537-8d31-308cca58bac3-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Students wear protective masks as they arrive for classes at the Immaculate Conception School in the Bronx.",
+          "copyright": "John Minchillo/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/opinion/28Oster/merlin_177167847_cf552312-81c5-4537-8d31-308cca58bac3-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Students wear protective masks as they arrive for classes at the Immaculate Conception School in the Bronx.",
+          "copyright": "John Minchillo/Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/2S6SLrv"
+    },
+    {
+      "section": "opinion",
+      "subsection": "",
+      "title": "The Good, the Bad and the Ugly, Meet Donald Trump",
+      "abstract": "Over the past five days, we learned a lot about the president and his powers.",
+      "url": "https://www.nytimes.com/2020/09/28/opinion/trump-tax-returns-biden-debate.html",
+      "uri": "nyt://article/b37f38ce-3829-5111-afc1-f0e5774df76d",
+      "byline": "By Gail Collins and Bret Stephens",
+      "item_type": "Article",
+      "updated_date": "2020-09-28T20:37:56-04:00",
+      "created_date": "2020-09-28T05:00:15-04:00",
+      "published_date": "2020-09-28T05:00:15-04:00",
+      "material_type_facet": "",
+      "kicker": "The conversation",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "United States Politics and Government",
+        "Presidential Election of 2016",
+        "Federal Taxes (US)",
+        "Taxation",
+        "Reality Television"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Barrett, Amy Coney",
+        "Biden, Joseph R Jr",
+        "McConnell, Mitch",
+        "Roberts, John G Jr",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/opinion/28Conversation/merlin_177591012_dc432208-a931-4f3e-a459-816d89036e09-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Anna Moneymaker for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/opinion/28Conversation/merlin_177591012_dc432208-a931-4f3e-a459-816d89036e09-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Anna Moneymaker for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/opinion/28Conversation/merlin_177591012_dc432208-a931-4f3e-a459-816d89036e09-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Anna Moneymaker for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/opinion/28Conversation/merlin_177591012_dc432208-a931-4f3e-a459-816d89036e09-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Anna Moneymaker for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/opinion/28Conversation/merlin_177591012_dc432208-a931-4f3e-a459-816d89036e09-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Anna Moneymaker for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/36buKaX"
+    },
+    {
+      "section": "opinion",
+      "subsection": "",
+      "title": "The Rise of Remote Work Can Be Unexpectedly Liberating",
+      "abstract": "What if you are better off without the office?",
+      "url": "https://www.nytimes.com/2020/09/25/opinion/remote-work-from-home-office.html",
+      "uri": "nyt://article/bbaf0ad4-0d5b-56b4-9373-820ddcd96771",
+      "byline": "By Jessica Powell",
+      "item_type": "Article",
+      "updated_date": "2020-09-28T20:37:55-04:00",
+      "created_date": "2020-09-25T19:00:07-04:00",
+      "published_date": "2020-09-25T19:00:07-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Labor and Jobs",
+        "Productivity",
+        "Workplace Environment",
+        "Coronavirus (2019-nCoV)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/opinion/28Powell2/25Powell2-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jim Wilson/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/opinion/28Powell2/25Powell2-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jim Wilson/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/opinion/28Powell2/25Powell2-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jim Wilson/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/opinion/28Powell2/25Powell2-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jim Wilson/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/opinion/28Powell2/25Powell2-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jim Wilson/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/334gWgM"
+    },
+    {
+      "section": "opinion",
+      "subsection": "",
+      "title": "The Meaning of Amy Coney Barrett",
+      "abstract": "Ruth Bader Ginsburgâ€™s likely successor could become a different kind of three-initialed icon.",
+      "url": "https://www.nytimes.com/2020/09/26/opinion/amy-coney-barrett-supreme-court.html",
+      "uri": "nyt://article/8ec876e6-489d-5fdd-8be5-5221d92c402c",
+      "byline": "By Ross Douthat",
+      "item_type": "Article",
+      "updated_date": "2020-09-28T20:37:56-04:00",
+      "created_date": "2020-09-26T07:10:30-04:00",
+      "published_date": "2020-09-26T07:10:30-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Appointments and Executive Changes",
+        "Women's Rights",
+        "Women and Girls",
+        "Conservatism (US Politics)",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Supreme Court (US)"
+      ],
+      "per_facet": [
+        "Barrett, Amy Coney",
+        "Ginsburg, Ruth Bader",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/26/opinion/26douthatWeb/26douthatWeb-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Amy Coney Barrett in 2019.",
+          "copyright": "Samuel Corum for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/26/opinion/26douthatWeb/26douthatWeb-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Amy Coney Barrett in 2019.",
+          "copyright": "Samuel Corum for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/26/opinion/26douthatWeb/26douthatWeb-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Amy Coney Barrett in 2019.",
+          "copyright": "Samuel Corum for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/26/opinion/26douthatWeb/26douthatWeb-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Amy Coney Barrett in 2019.",
+          "copyright": "Samuel Corum for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/26/opinion/26douthatWeb/26douthatWeb-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Amy Coney Barrett in 2019.",
+          "copyright": "Samuel Corum for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3cvStUD"
+    },
+    {
+      "section": "obituaries",
+      "subsection": "",
+      "title": "Those Weâ€™ve Lost",
+      "abstract": "The coronavirus pandemic has taken an incalculable death toll. This series is designed to put names and faces to the numbers.",
+      "url": "https://www.nytimes.com/interactive/2020/obituaries/people-died-coronavirus-obituaries.html",
+      "uri": "nyt://interactive/ef754cc5-7b0c-5662-8893-473dc4316196",
+      "byline": "By The New York Times",
+      "item_type": "Interactive",
+      "updated_date": "2020-09-29T00:30:55-04:00",
+      "created_date": "2020-04-16T18:28:14-04:00",
+      "published_date": "2020-04-16T18:28:14-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Deaths (Obituaries)",
+        "Coronavirus (2019-nCoV)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/04/16/obituaries/obits-lost-promo/obits-lost-promo-superJumbo-v2.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/16/obituaries/obits-lost-promo/obits-lost-promo-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/16/obituaries/obits-lost-promo/obits-lost-promo-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/16/obituaries/obits-lost-promo/obits-lost-promo-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/04/16/obituaries/obits-lost-promo/obits-lost-promo-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2K7ZHki"
+    },
+    {
+      "section": "technology",
+      "subsection": "",
+      "title": "Inside eBayâ€™s Cockroach Cult: The Ghastly Story of a Stalking Scandal",
+      "abstract": "â€œPeople are basically goodâ€ was eBayâ€™s founding principle. But in the deranged summer of 2019, prosecutors say, a campaign to terrorize a blogger crawled out of a dark place in the corporate soul.",
+      "url": "https://www.nytimes.com/2020/09/26/technology/ebay-cockroaches-stalking-scandal.html",
+      "uri": "nyt://article/952985f6-ab16-52df-9176-aa33d31c874f",
+      "byline": "By David Streitfeld",
+      "item_type": "Article",
+      "updated_date": "2020-09-28T21:13:19-04:00",
+      "created_date": "2020-09-26T05:00:24-04:00",
+      "published_date": "2020-09-26T05:00:24-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Cyberharassment",
+        "Stalking (Crime)"
+      ],
+      "org_facet": [
+        "eBay Inc"
+      ],
+      "per_facet": [
+        "Wenig, Devin N",
+        "Wymer, Steve"
+      ],
+      "geo_facet": [
+        "Silicon Valley (Calif)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/business/25eBay-illo/25eBay-illo-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 1715,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Kako"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/business/25eBay-illo/25eBay-illo-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Kako"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/business/25eBay-illo/25eBay-illo-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Kako"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/business/25eBay-illo/25eBay-illo-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Kako"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/business/25eBay-illo/25eBay-illo-articleInline.jpg",
+          "format": "Normal",
+          "height": 227,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Kako"
+        }
+      ],
+      "short_url": "https://nyti.ms/2S1CRPe"
+    },
+    {
+      "section": "nyregion",
+      "subsection": "",
+      "title": "â€˜My Girlfriend and I Wound Up in an Empty Dive Bar, Having a Drinkâ€™",
+      "abstract": "Chatting with a bartender in Brooklyn, finding a family photo and more reader tales of New York City in this weekâ€™s Metropolitan Diary.",
+      "url": "https://www.nytimes.com/2020/09/27/nyregion/metropolitan-diary.html",
+      "uri": "nyt://article/6a58c64e-dc8c-5d69-9f46-4f0ad2f7e050",
+      "byline": "",
+      "item_type": "Article",
+      "updated_date": "2020-09-28T21:13:17-04:00",
+      "created_date": "2020-09-27T03:00:08-04:00",
+      "published_date": "2020-09-27T03:00:08-04:00",
+      "material_type_facet": "",
+      "kicker": "METROPOLITAN DIARY",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "New York City"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/nyregion/27diary-illos-04/27diary-illos-04-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1305,
+          "width": 1401,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/nyregion/27diary-illos-04/27diary-illos-04-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/nyregion/27diary-illos-04/27diary-illos-04-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/nyregion/27diary-illos-04/27diary-illos-04-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/nyregion/27diary-illos-04/27diary-illos-04-articleInline.jpg",
+          "format": "Normal",
+          "height": 182,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/3cDEmwC"
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "House Unveils New Stimulus Package as Pelosi and Mnuchin Resume Talks",
+      "abstract": "The moves appeared to be the most concrete action toward more economic aid since negotiations stalled nearly two months ago, but the sides remain far apart on price and short on time.",
+      "url": "https://www.nytimes.com/2020/09/28/us/politics/stimulus-bill-pelosi-mnuchin.html",
+      "uri": "nyt://article/5e41302c-8a8a-5ac2-907a-639c54088f08",
+      "byline": "By Emily Cochrane",
+      "item_type": "Article",
+      "updated_date": "2020-09-29T01:04:11-04:00",
+      "created_date": "2020-09-28T22:22:51-04:00",
+      "published_date": "2020-09-28T22:22:51-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "United States Economy",
+        "Stimulus (Economic)",
+        "United States Politics and Government",
+        "Law and Legislation",
+        "Coronavirus (2019-nCoV)"
+      ],
+      "org_facet": [
+        "House of Representatives",
+        "Democratic Party",
+        "Republican Party"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Mnuchin, Steven T",
+        "Pelosi, Nancy"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/us/politics/28dc-cong/28dc-cong-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "â€œDemocrats are making good on our promise to compromise with this updated bill, which is necessary to address the immediate health and economic crisis facing Americas working families right now,â€ Speaker Nancy Pelosi wrote in a letter to her caucus.",
+          "copyright": "Anna Moneymaker for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/us/politics/28dc-cong/28dc-cong-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "â€œDemocrats are making good on our promise to compromise with this updated bill, which is necessary to address the immediate health and economic crisis facing Americas working families right now,â€ Speaker Nancy Pelosi wrote in a letter to her caucus.",
+          "copyright": "Anna Moneymaker for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/us/politics/28dc-cong/28dc-cong-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "â€œDemocrats are making good on our promise to compromise with this updated bill, which is necessary to address the immediate health and economic crisis facing Americas working families right now,â€ Speaker Nancy Pelosi wrote in a letter to her caucus.",
+          "copyright": "Anna Moneymaker for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/us/politics/28dc-cong/28dc-cong-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "â€œDemocrats are making good on our promise to compromise with this updated bill, which is necessary to address the immediate health and economic crisis facing Americas working families right now,â€ Speaker Nancy Pelosi wrote in a letter to her caucus.",
+          "copyright": "Anna Moneymaker for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/us/politics/28dc-cong/28dc-cong-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "â€œDemocrats are making good on our promise to compromise with this updated bill, which is necessary to address the immediate health and economic crisis facing Americas working families right now,â€ Speaker Nancy Pelosi wrote in a letter to her caucus.",
+          "copyright": "Anna Moneymaker for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2EL3MvI"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "Prosecutors Target Ex-Audi Chief in First VW Emissions Trial",
+      "abstract": "Rupert Stadler is accused of continuing to sell cars with illegal software even after Volkswagenâ€™s cheating scandal came to light.",
+      "url": "https://www.nytimes.com/2020/09/29/business/Volkswagen-Audi-rupert-stadler-diesel.html",
+      "uri": "nyt://article/16ed6b19-d0b9-5b2f-9440-fa0f64fdd9cc",
+      "byline": "By Jack Ewing",
+      "item_type": "Article",
+      "updated_date": "2020-09-29T01:10:13-04:00",
+      "created_date": "2020-09-29T00:01:08-04:00",
+      "published_date": "2020-09-29T00:01:08-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Fuel Emissions (Transportation)",
+        "Automobiles",
+        "Frauds and Swindling",
+        "Diesel Power",
+        "Engines"
+      ],
+      "org_facet": [
+        "Audi Division of Volkswagen AG",
+        "Volkswagen AG"
+      ],
+      "per_facet": [
+        "Hatz, Wolfgang",
+        "Liang, James",
+        "Pamio, Zaccheo Giovanni",
+        "Schmidt, Oliver",
+        "Stadler, Rupert (1963- )",
+        "Winterkorn, Martin"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/business/29audi-1/merlin_135522486_abb33f89-2ef5-4bc7-9a8d-b7be2efcdb7a-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The trial of Rupert Stadler, a former chief executive of Audi, will test whether prosecutors can convict top managers protected by layers of underlings.",
+          "copyright": "Matthias Schrader/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/business/29audi-1/29audi-1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The trial of Rupert Stadler, a former chief executive of Audi, will test whether prosecutors can convict top managers protected by layers of underlings.",
+          "copyright": "Matthias Schrader/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/business/29audi-1/29audi-1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The trial of Rupert Stadler, a former chief executive of Audi, will test whether prosecutors can convict top managers protected by layers of underlings.",
+          "copyright": "Matthias Schrader/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/business/29audi-1/29audi-1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The trial of Rupert Stadler, a former chief executive of Audi, will test whether prosecutors can convict top managers protected by layers of underlings.",
+          "copyright": "Matthias Schrader/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/business/29audi-1/merlin_135522486_abb33f89-2ef5-4bc7-9a8d-b7be2efcdb7a-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The trial of Rupert Stadler, a former chief executive of Audi, will test whether prosecutors can convict top managers protected by layers of underlings.",
+          "copyright": "Matthias Schrader/Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/3icW9M3"
+    },
+    {
+      "section": "us",
+      "subsection": "",
+      "title": "Maryland Man Sentenced to a Year in Jail for Violating Ban on Large Parties",
+      "abstract": "Shawn Marshall Myers was arrested in March, after prosecutors said he threw two parties of 50 or more people at his home in defiance of the stateâ€™s ban on gatherings of more than 10 people.",
+      "url": "https://www.nytimes.com/2020/09/28/us/maryland-coronavirus-parties-jail.html",
+      "uri": "nyt://article/4ceb6282-8f25-5abb-8bf0-3674f30f593d",
+      "byline": "By ConcepciÃ³n de LeÃ³n",
+      "item_type": "Article",
+      "updated_date": "2020-09-29T01:04:11-04:00",
+      "created_date": "2020-09-28T18:49:44-04:00",
+      "published_date": "2020-09-28T18:49:44-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Quarantines",
+        "Parties (Social)",
+        "Fines (Penalties)",
+        "Coronavirus (2019-nCoV)",
+        "Decisions and Verdicts"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Myers, Shawn Marshall"
+      ],
+      "geo_facet": [
+        "Maryland"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/multimedia/28xp-myers-image/merlin_170371554_9bad45b1-b80f-4f5b-b69d-7918bbcd427e-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 937,
+          "width": 1396,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The police in Dayton, Ohio, broke up a street party in March.",
+          "copyright": "Bill Lackey/Dayton Daily News, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/multimedia/28xp-myers-image/merlin_170371554_9bad45b1-b80f-4f5b-b69d-7918bbcd427e-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The police in Dayton, Ohio, broke up a street party in March.",
+          "copyright": "Bill Lackey/Dayton Daily News, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/multimedia/28xp-myers-image/merlin_170371554_9bad45b1-b80f-4f5b-b69d-7918bbcd427e-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The police in Dayton, Ohio, broke up a street party in March.",
+          "copyright": "Bill Lackey/Dayton Daily News, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/multimedia/28xp-myers-image/merlin_170371554_9bad45b1-b80f-4f5b-b69d-7918bbcd427e-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The police in Dayton, Ohio, broke up a street party in March.",
+          "copyright": "Bill Lackey/Dayton Daily News, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/multimedia/28xp-myers-image/merlin_170371554_9bad45b1-b80f-4f5b-b69d-7918bbcd427e-articleInline.jpg",
+          "format": "Normal",
+          "height": 128,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The police in Dayton, Ohio, broke up a street party in March.",
+          "copyright": "Bill Lackey/Dayton Daily News, via Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/2G8x4F1"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "Bipartisan House Bill Aims to Fix Boeing 737 Max Safety Lapses",
+      "abstract": "The measure seeks to strengthen the Federal Aviation Administration and impose tougher penalties on corporate executives who undermine regulators.",
+      "url": "https://www.nytimes.com/2020/09/28/business/faa-boeing-737-max-house.html",
+      "uri": "nyt://article/1fed26f5-bb65-5f16-aac3-9c20c89c5eed",
+      "byline": "By Niraj Chokshi",
+      "item_type": "Article",
+      "updated_date": "2020-09-29T01:04:11-04:00",
+      "created_date": "2020-09-28T19:42:10-04:00",
+      "published_date": "2020-09-28T19:42:10-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Boeing 737 Max Groundings and Safety Concerns (2019)",
+        "United States Politics and Government",
+        "Law and Legislation",
+        "Airlines and Airplanes",
+        "Accidents and Safety",
+        "Aviation Accidents, Safety and Disasters"
+      ],
+      "org_facet": [
+        "Boeing Company",
+        "Federal Aviation Administration",
+        "House Committee on Transportation"
+      ],
+      "per_facet": [
+        "DeFazio, Peter A",
+        "Larsen, Rick",
+        "Graves, Sam"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/28FAA/merlin_174539175_d2670038-5c1d-43e2-ad9f-24d335ee11ec-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1395,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A House bill, unveiled on Monday, targets problems that contributed to two fatal crashes of the Boeing 737 Max, like this one in Renton, Wash.",
+          "copyright": "Lindsey Wasson for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/28FAA/28FAA-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A House bill, unveiled on Monday, targets problems that contributed to two fatal crashes of the Boeing 737 Max, like this one in Renton, Wash.",
+          "copyright": "Lindsey Wasson for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/28FAA/28FAA-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A House bill, unveiled on Monday, targets problems that contributed to two fatal crashes of the Boeing 737 Max, like this one in Renton, Wash.",
+          "copyright": "Lindsey Wasson for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/28FAA/28FAA-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A House bill, unveiled on Monday, targets problems that contributed to two fatal crashes of the Boeing 737 Max, like this one in Renton, Wash.",
+          "copyright": "Lindsey Wasson for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/28FAA/merlin_174539175_d2670038-5c1d-43e2-ad9f-24d335ee11ec-articleInline.jpg",
+          "format": "Normal",
+          "height": 129,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A House bill, unveiled on Monday, targets problems that contributed to two fatal crashes of the Boeing 737 Max, like this one in Renton, Wash.",
+          "copyright": "Lindsey Wasson for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3i9LFgE"
+    },
+    {
+      "section": "world",
+      "subsection": "asia",
+      "title": "Ex-President of Pakistan Is Indicted on Money Laundering Charges",
+      "abstract": "The case against Asif Ali Zardari, widower of former Prime Minister Benazir Bhutto, is the latest in a string of moves against opposition figures that his supporters say are politically motivated.",
+      "url": "https://www.nytimes.com/2020/09/28/world/asia/pakistan-asif-ali-zardari-imran-khan.html",
+      "uri": "nyt://article/2a4ec4ed-7ec8-562d-a4b7-3829c10c9668",
+      "byline": "By Salman Masood",
+      "item_type": "Article",
+      "updated_date": "2020-09-29T01:04:10-04:00",
+      "created_date": "2020-09-28T06:59:04-04:00",
+      "published_date": "2020-09-28T06:59:04-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Corruption (Institutional)",
+        "Money Laundering",
+        "Legislatures and Parliaments"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Zardari, Asif Ali",
+        "Khan, Imran",
+        "Sharif, Shahbaz"
+      ],
+      "geo_facet": [
+        "Pakistan"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/world/28pakistan-1/merlin_165782505_054b67b4-3d87-4c21-b4bf-a18604d43fe8-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1508,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Asif Ali Zardari leaving a courthouse in Islamabad, Pakistan, last year.  Critics say the government of Prime Minister Imran Khan is targeting the opposition in the guise of accountability.",
+          "copyright": "B.K. Bangash/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/world/28pakistan-1/28pakistan-1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Asif Ali Zardari leaving a courthouse in Islamabad, Pakistan, last year.  Critics say the government of Prime Minister Imran Khan is targeting the opposition in the guise of accountability.",
+          "copyright": "B.K. Bangash/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/world/28pakistan-1/28pakistan-1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Asif Ali Zardari leaving a courthouse in Islamabad, Pakistan, last year.  Critics say the government of Prime Minister Imran Khan is targeting the opposition in the guise of accountability.",
+          "copyright": "B.K. Bangash/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/world/28pakistan-1/28pakistan-1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Asif Ali Zardari leaving a courthouse in Islamabad, Pakistan, last year.  Critics say the government of Prime Minister Imran Khan is targeting the opposition in the guise of accountability.",
+          "copyright": "B.K. Bangash/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/world/28pakistan-1/merlin_165782505_054b67b4-3d87-4c21-b4bf-a18604d43fe8-articleInline.jpg",
+          "format": "Normal",
+          "height": 140,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Asif Ali Zardari leaving a courthouse in Islamabad, Pakistan, last year.  Critics say the government of Prime Minister Imran Khan is targeting the opposition in the guise of accountability.",
+          "copyright": "B.K. Bangash/Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/336Exx7"
+    },
+    {
+      "section": "us",
+      "subsection": "",
+      "title": "3 Killed in Fresh Wildfires in Northern California",
+      "abstract": "In addition to the deaths, the famous Chateau Boswell winery is gone, a community of tiny homes for homeless people has burned, and an untold number of houses are feared lost.",
+      "url": "https://www.nytimes.com/2020/09/28/us/california-glass-zogg-fires.html",
+      "uri": "nyt://article/77e3a1d5-c60e-5dec-8c71-777ebeab28df",
+      "byline": "By Tim Arango, Johnny Diaz and Carly Stern",
+      "item_type": "Article",
+      "updated_date": "2020-09-29T01:04:56-04:00",
+      "created_date": "2020-09-28T10:09:01-04:00",
+      "published_date": "2020-09-28T10:09:01-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Wildfires",
+        "Evacuations and Evacuees",
+        "Weather"
+      ],
+      "org_facet": [
+        "National Weather Service",
+        "Cal Fire",
+        "Pacific Gas and Electric Co"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/multimedia/28xp-california-wildfires1/merlin_177715869_a6d139ef-3609-4ebe-b1c4-dd7578d468a1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1362,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Flames from the Glass Fire consuming the Glass Mountain Inn late Sunday.",
+          "copyright": "Noah Berger/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/multimedia/28xp-california-wildfires1/28xp-california-wildfires1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Flames from the Glass Fire consuming the Glass Mountain Inn late Sunday.",
+          "copyright": "Noah Berger/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/multimedia/28xp-california-wildfires1/28xp-california-wildfires1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Flames from the Glass Fire consuming the Glass Mountain Inn late Sunday.",
+          "copyright": "Noah Berger/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/multimedia/28xp-california-wildfires1/28xp-california-wildfires1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Flames from the Glass Fire consuming the Glass Mountain Inn late Sunday.",
+          "copyright": "Noah Berger/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/multimedia/28xp-california-wildfires1/merlin_177715869_a6d139ef-3609-4ebe-b1c4-dd7578d468a1-articleInline.jpg",
+          "format": "Normal",
+          "height": 126,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Flames from the Glass Fire consuming the Glass Mountain Inn late Sunday.",
+          "copyright": "Noah Berger/Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/36eQB1a"
+    },
+    {
+      "section": "sports",
+      "subsection": "hockey",
+      "title": "Tampa Bay Lightning Win Stanley Cup in Pandemic Bubble",
+      "abstract": "The Lightning defeated the Dallas Stars, four games to two, to win their second championship, in a season upended by the coronavirus pandemic.",
+      "url": "https://www.nytimes.com/2020/09/28/sports/hockey/tampa-bay-lightning-win-stanley-cup.html",
+      "uri": "nyt://article/292bb472-562b-5b82-a3c5-9b273f31c354",
+      "byline": "By Carol Schram",
+      "item_type": "Article",
+      "updated_date": "2020-09-29T01:18:47-04:00",
+      "created_date": "2020-09-28T22:51:03-04:00",
+      "published_date": "2020-09-28T22:51:03-04:00",
+      "material_type_facet": "",
+      "kicker": "Stanley Cup Finals",
+      "des_facet": [
+        "Stanley Cup",
+        "Playoff Games",
+        "Hockey, Ice"
+      ],
+      "org_facet": [
+        "Tampa Bay Lightning",
+        "Dallas Stars",
+        "National Hockey League"
+      ],
+      "per_facet": [
+        "Kucherov, Nikita (1993- )",
+        "Point, Brayden (1996- )"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/sports/28nhl-finals6-web-3/merlin_177759495_2519b639-0a1a-4e90-bc77-b1affb3f95e4-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1396,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Lightning won their second Stanley Cup in franchise history, with the first coming in 2004.",
+          "copyright": "Jason Franson/The Canadian Press, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/sports/28nhl-finals6-web-3/28nhl-finals6-web-3-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Lightning won their second Stanley Cup in franchise history, with the first coming in 2004.",
+          "copyright": "Jason Franson/The Canadian Press, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/sports/28nhl-finals6-web-3/28nhl-finals6-web-3-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Lightning won their second Stanley Cup in franchise history, with the first coming in 2004.",
+          "copyright": "Jason Franson/The Canadian Press, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/sports/28nhl-finals6-web-3/28nhl-finals6-web-3-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Lightning won their second Stanley Cup in franchise history, with the first coming in 2004.",
+          "copyright": "Jason Franson/The Canadian Press, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/sports/28nhl-finals6-web-3/merlin_177759495_2519b639-0a1a-4e90-bc77-b1affb3f95e4-articleInline.jpg",
+          "format": "Normal",
+          "height": 129,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Lightning won their second Stanley Cup in franchise history, with the first coming in 2004.",
+          "copyright": "Jason Franson/The Canadian Press, via Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/3n8hBpt"
+    },
+    {
+      "section": "world",
+      "subsection": "europe",
+      "title": "The Ship That Stopped 7,000 Migrants, and Smuggled 700,000 Cigarettes",
+      "abstract": "The Caprera, an Italian warship, was deployed to Tripoli to help combat people-smugglers in Libya. Some of its sailors gathered a cargo of contraband.",
+      "url": "https://www.nytimes.com/2020/09/28/world/europe/italy-warship-migrants-libya-cigarettes-smuggling.html",
+      "uri": "nyt://article/bef66b19-52da-5b02-9650-d566274babcb",
+      "byline": "By Patrick Kingsley and Sara Creta",
+      "item_type": "Article",
+      "updated_date": "2020-09-29T01:04:11-04:00",
+      "created_date": "2020-09-28T17:51:03-04:00",
+      "published_date": "2020-09-28T17:51:03-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Middle East and Africa Migrant Crisis",
+        "Smuggling"
+      ],
+      "org_facet": [
+        "European Union"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Brindisi (Italy)",
+        "Italy",
+        "Libya"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/22/world/00italy-libya-smuggling/00italy-libya-smuggling-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1367,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Italian warship Caprera docked in Naples in 2017.",
+          "copyright": "Drew Rawcliffe/Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/22/world/00italy-libya-smuggling/00italy-libya-smuggling-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Italian warship Caprera docked in Naples in 2017.",
+          "copyright": "Drew Rawcliffe/Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/22/world/00italy-libya-smuggling/00italy-libya-smuggling-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Italian warship Caprera docked in Naples in 2017.",
+          "copyright": "Drew Rawcliffe/Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/22/world/00italy-libya-smuggling/00italy-libya-smuggling-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Italian warship Caprera docked in Naples in 2017.",
+          "copyright": "Drew Rawcliffe/Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/22/world/00italy-libya-smuggling/00italy-libya-smuggling-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Italian warship Caprera docked in Naples in 2017.",
+          "copyright": "Drew Rawcliffe/Shutterstock"
+        }
+      ],
+      "short_url": "https://nyti.ms/3cFh0GJ"
+    },
+    {
+      "section": "sports",
+      "subsection": "tennis",
+      "title": "With No Last-Set Tiebreaker, French Open Match Lasts More Than Six Hours",
+      "abstract": "Lorenzo Giustino defeated Corentin Moutet in a match that helped push the French Open slate to a post-midnight completion.",
+      "url": "https://www.nytimes.com/2020/09/28/sports/tennis/french-open-six-hours.html",
+      "uri": "nyt://article/a1666733-c2d0-5ce6-886d-4c8107c86663",
+      "byline": "By Ben Rothenberg",
+      "item_type": "Article",
+      "updated_date": "2020-09-29T01:04:10-04:00",
+      "created_date": "2020-09-28T19:31:34-04:00",
+      "published_date": "2020-09-28T19:31:34-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "French Open (Tennis)",
+        "Tennis"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Giustino, Lorenzo",
+        "Moutet, Corentin"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/sports/28french-sixhours/merlin_177740727_7a639026-3f28-48f3-961d-73a2236987f1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1290,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lorenzo Giustino after beating Corentin Moutet in the opening round of the French Open in a match that lasted more than six hours.",
+          "copyright": "Yoan Valat/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/sports/28french-sixhours/28french-sixhours-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lorenzo Giustino after beating Corentin Moutet in the opening round of the French Open in a match that lasted more than six hours.",
+          "copyright": "Yoan Valat/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/sports/28french-sixhours/28french-sixhours-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lorenzo Giustino after beating Corentin Moutet in the opening round of the French Open in a match that lasted more than six hours.",
+          "copyright": "Yoan Valat/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/sports/28french-sixhours/28french-sixhours-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lorenzo Giustino after beating Corentin Moutet in the opening round of the French Open in a match that lasted more than six hours.",
+          "copyright": "Yoan Valat/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/sports/28french-sixhours/merlin_177740727_7a639026-3f28-48f3-961d-73a2236987f1-articleInline.jpg",
+          "format": "Normal",
+          "height": 120,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lorenzo Giustino after beating Corentin Moutet in the opening round of the French Open in a match that lasted more than six hours.",
+          "copyright": "Yoan Valat/EPA, via Shutterstock"
+        }
+      ],
+      "short_url": "https://nyti.ms/36e8pJW"
+    },
+    {
+      "section": "smarter-living",
+      "subsection": "",
+      "title": "How to Ask if Everything Is OK When Itâ€™s Clearly Not",
+      "abstract": "Choose the right time. Be vulnerable. Don't try to solve all their problems.",
+      "url": "https://www.nytimes.com/2020/07/28/smarter-living/coronavirus-how-to-check-in-with-a-friend.html",
+      "uri": "nyt://article/33059a41-58f9-5835-b908-99d5480c82da",
+      "byline": "By Anna Goldfarb",
+      "item_type": "Article",
+      "updated_date": "2020-09-28T15:08:44-04:00",
+      "created_date": "2020-07-28T09:06:03-04:00",
+      "published_date": "2020-07-28T09:06:03-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Psychology and Psychologists",
+        "Content Type: Service",
+        "Friendship",
+        "Quarantine (Life and Culture)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/07/27/multimedia/24sl-virus-ok/24sl-virus-ok-superJumbo.png",
+          "format": "superJumbo",
+          "height": 1119,
+          "width": 1935,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Lauren Martin"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/07/27/multimedia/24sl-virus-ok/24sl-virus-ok-thumbStandard.png",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Lauren Martin"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/07/27/multimedia/24sl-virus-ok/24sl-virus-ok-thumbLarge.png",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Lauren Martin"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/07/27/multimedia/24sl-virus-ok/24sl-virus-ok-mediumThreeByTwo210.png",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Lauren Martin"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/07/27/multimedia/24sl-virus-ok/24sl-virus-ok-articleInline.png",
+          "format": "Normal",
+          "height": 114,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Lauren Martin"
+        }
+      ],
+      "short_url": "https://nyti.ms/30Sw3HH"
+    },
+    {
+      "section": "travel",
+      "subsection": "",
+      "title": "Fallâ€™s Here. Can We Still Go Apple Picking?",
+      "abstract": "Wandering through corn mazes, picking pumpkins and visits to wineries and haunted houses are still on the calendar, but social distancing and face masks are part of the plan.",
+      "url": "https://www.nytimes.com/2020/09/17/travel/fall-activities-coronavirus.html",
+      "uri": "nyt://article/d7494aa9-c7b9-5cd4-ab92-2d3edb0f3f22",
+      "byline": "By Elaine Glusac",
+      "item_type": "Article",
+      "updated_date": "2020-09-28T15:08:47-04:00",
+      "created_date": "2020-09-17T05:00:25-04:00",
+      "published_date": "2020-09-17T05:00:25-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Labyrinths and Mazes",
+        "Autumn (Season)",
+        "Agriculture and Farming",
+        "Halloween",
+        "Apples",
+        "Travel and Vacations",
+        "Pumpkins",
+        "Wines"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/16/travel/17fall-activities-4/oakImage-1600278654565-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Grandadâ€™s Apples, a 120-acre farm in Hendersonville, N.C., that offers apple picking.Â&nbsp;",
+          "copyright": "Sam Dean/Henderson County Tourism"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/16/travel/17fall-activities-4/oakImage-1600278654565-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Grandadâ€™s Apples, a 120-acre farm in Hendersonville, N.C., that offers apple picking.Â&nbsp;",
+          "copyright": "Sam Dean/Henderson County Tourism"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/16/travel/17fall-activities-4/oakImage-1600278654565-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Grandadâ€™s Apples, a 120-acre farm in Hendersonville, N.C., that offers apple picking.Â&nbsp;",
+          "copyright": "Sam Dean/Henderson County Tourism"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/16/travel/17fall-activities-4/17fall-activities-4-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Grandadâ€™s Apples, a 120-acre farm in Hendersonville, N.C., that offers apple picking.Â&nbsp;",
+          "copyright": "Sam Dean/Henderson County Tourism"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/16/travel/17fall-activities-4/oakImage-1600278654565-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Grandadâ€™s Apples, a 120-acre farm in Hendersonville, N.C., that offers apple picking.Â&nbsp;",
+          "copyright": "Sam Dean/Henderson County Tourism"
+        }
+      ],
+      "short_url": "https://nyti.ms/3mvhnbu"
+    },
+    {
+      "section": "at-home",
+      "subsection": "",
+      "title": "Pack a â€˜Go Bagâ€™ Now",
+      "abstract": "The first step toward a solid evacuation plan is pulling together all the gear you need, before you need it.",
+      "url": "https://www.nytimes.com/2020/09/19/at-home/evacuation-bag.html",
+      "uri": "nyt://article/4e1dc836-3783-5c3d-a710-2bc3fa919abb",
+      "byline": "By A.C. Shilton",
+      "item_type": "Article",
+      "updated_date": "2020-09-28T15:08:46-04:00",
+      "created_date": "2020-09-19T05:00:14-04:00",
+      "published_date": "2020-09-19T05:00:14-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Quarantine (Life and Culture)",
+        "Content Type: Service",
+        "Disasters and Emergencies",
+        "Hurricanes and Tropical Storms",
+        "Health Insurance and Managed Care",
+        "Humanitarian Aid",
+        "Evacuations and Evacuees",
+        "Wildfires"
+      ],
+      "org_facet": [
+        "University of Delaware"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/20/multimedia/20ah-gobag/merlin_176875245_c036ddf3-02b3-4bf4-a307-55fd16d9c11b-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Christian Monterrosa for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/20/multimedia/20ah-gobag/20ah-gobag-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Christian Monterrosa for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/20/multimedia/20ah-gobag/20ah-gobag-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Christian Monterrosa for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/20/multimedia/20ah-gobag/merlin_176875245_c036ddf3-02b3-4bf4-a307-55fd16d9c11b-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Christian Monterrosa for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/20/multimedia/20ah-gobag/merlin_176875245_c036ddf3-02b3-4bf4-a307-55fd16d9c11b-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Christian Monterrosa for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3hL91sP"
+    },
+    {
+      "section": "smarter-living",
+      "subsection": "",
+      "title": "5 Things to Avoid on Prime Day",
+      "abstract": "There will be many traps to fall into, so watch out.",
+      "url": "https://www.nytimes.com/2020/09/28/smarter-living/prime-day-what-to-avoid.html",
+      "uri": "nyt://article/d1ef55d8-5ee5-5029-87d7-ddec7d115ff7",
+      "byline": "By Nathan Burrow",
+      "item_type": "Article",
+      "updated_date": "2020-09-28T15:08:44-04:00",
+      "created_date": "2020-09-28T15:05:09-04:00",
+      "published_date": "2020-09-28T15:05:09-04:00",
+      "material_type_facet": "",
+      "kicker": "wirecutter",
+      "des_facet": [
+        "Content Type: Service",
+        "E-Commerce",
+        "Computers and the Internet",
+        "Shopping and Retail"
+      ],
+      "org_facet": [
+        "Amazon.com Inc"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/oakImage-1601055635715/oakImage-1601055635715-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1024,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Michael Hession"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/oakImage-1601055635715/oakImage-1601055635715-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Michael Hession"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/oakImage-1601055635715/oakImage-1601055635715-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Michael Hession"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/oakImage-1601055635715/oakImage-1601055635715-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Michael Hession"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/oakImage-1601055635715/oakImage-1601055635715-articleInline.jpg",
+          "format": "Normal",
+          "height": 95,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Michael Hession"
+        }
+      ],
+      "short_url": "https://nyti.ms/33c06wl"
+    },
+    {
+      "section": "sports",
+      "subsection": "",
+      "title": "What My Sled Dogs Taught Me About Planning for the Unknown",
+      "abstract": "Working with them in the wilderness means negotiating countless shifting variables. Sounds a lot like the world weâ€™re living in.",
+      "url": "https://www.nytimes.com/2020/09/23/sports/sled-dogs-mushing-unknowns-planning.html",
+      "uri": "nyt://article/633f0a6d-c562-5cd6-89ed-b31a1e41ff18",
+      "byline": "By Blair Braverman",
+      "item_type": "Article",
+      "updated_date": "2020-09-28T15:08:45-04:00",
+      "created_date": "2020-09-23T05:00:09-04:00",
+      "published_date": "2020-09-23T05:00:09-04:00",
+      "material_type_facet": "",
+      "kicker": "Resilience",
+      "des_facet": [
+        "Dog Sledding",
+        "Coronavirus (2019-nCoV)",
+        "Dogs",
+        "Quarantine (Life and Culture)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/23/multimedia/23SP-RESILIENCE-MUSHING1/merlin_177164958_11c5ef04-5314-4b05-8091-295662b093ed-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Blair Braverman and some of her dogs at the Alpine Creek Lodge, which is on mile 68 of the Denali Highway, east of Cantwell, Alaska. And, yes, those are bootees on the dogsâ€™ feet.",
+          "copyright": "Nathaniel Wilder"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/23/multimedia/23SP-RESILIENCE-MUSHING1/23SP-RESILIENCE-MUSHING1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Blair Braverman and some of her dogs at the Alpine Creek Lodge, which is on mile 68 of the Denali Highway, east of Cantwell, Alaska. And, yes, those are bootees on the dogsâ€™ feet.",
+          "copyright": "Nathaniel Wilder"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/23/multimedia/23SP-RESILIENCE-MUSHING1/23SP-RESILIENCE-MUSHING1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Blair Braverman and some of her dogs at the Alpine Creek Lodge, which is on mile 68 of the Denali Highway, east of Cantwell, Alaska. And, yes, those are bootees on the dogsâ€™ feet.",
+          "copyright": "Nathaniel Wilder"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/23/multimedia/23SP-RESILIENCE-MUSHING1/23SP-RESILIENCE-MUSHING1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Blair Braverman and some of her dogs at the Alpine Creek Lodge, which is on mile 68 of the Denali Highway, east of Cantwell, Alaska. And, yes, those are bootees on the dogsâ€™ feet.",
+          "copyright": "Nathaniel Wilder"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/23/multimedia/23SP-RESILIENCE-MUSHING1/merlin_177164958_11c5ef04-5314-4b05-8091-295662b093ed-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Blair Braverman and some of her dogs at the Alpine Creek Lodge, which is on mile 68 of the Denali Highway, east of Cantwell, Alaska. And, yes, those are bootees on the dogsâ€™ feet.",
+          "copyright": "Nathaniel Wilder"
+        }
+      ],
+      "short_url": "https://nyti.ms/33Rpc2H"
+    },
+    {
+      "section": "t-magazine",
+      "subsection": "",
+      "title": "A Colorful Homecoming for a Milanese Designer",
+      "abstract": "After living around the world, NicolÃ² Castellini Baldissera has returned to the city in which his family â€” and his heart â€” has always resided.",
+      "url": "https://www.nytimes.com/2020/09/28/t-magazine/milan-home-Nicolo-Castellini-Baldissera.html",
+      "uri": "nyt://article/add939a7-e79b-5a42-a89d-8895307223ba",
+      "byline": "By Nancy Hass and Guido Taroni",
+      "item_type": "Article",
+      "updated_date": "2020-09-28T18:51:21-04:00",
+      "created_date": "2020-09-28T08:00:12-04:00",
+      "published_date": "2020-09-28T08:00:12-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Interior Design and Furnishings",
+        "Design",
+        "Furniture"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Castellini Baldissera, Nicolo"
+      ],
+      "geo_facet": [
+        "Italy",
+        "Milan (Italy)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/t-magazine/28tmag-milan-slide-2PKO-copy/28tmag-milan-slide-2PKO-copy-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In the living room, Rex and Regina coffee tables from Casa Tosca, a custom rug by Fedora Design, a sofa upholstered in C&amp;C Milanoâ€™s velvet Fenice with antique passementerie and artwork by Cornelia Parker, flanked by octagonal sconces designed by Castellini Baldissera and a 16th-century armoire painted with a view of Montalcino.",
+          "copyright": "Guido Taroni"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/t-magazine/28tmag-milan-slide-2PKO-copy/28tmag-milan-slide-2PKO-copy-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In the living room, Rex and Regina coffee tables from Casa Tosca, a custom rug by Fedora Design, a sofa upholstered in C&amp;C Milanoâ€™s velvet Fenice with antique passementerie and artwork by Cornelia Parker, flanked by octagonal sconces designed by Castellini Baldissera and a 16th-century armoire painted with a view of Montalcino.",
+          "copyright": "Guido Taroni"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/t-magazine/28tmag-milan-slide-2PKO-copy/28tmag-milan-slide-2PKO-copy-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In the living room, Rex and Regina coffee tables from Casa Tosca, a custom rug by Fedora Design, a sofa upholstered in C&amp;C Milanoâ€™s velvet Fenice with antique passementerie and artwork by Cornelia Parker, flanked by octagonal sconces designed by Castellini Baldissera and a 16th-century armoire painted with a view of Montalcino.",
+          "copyright": "Guido Taroni"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/t-magazine/28tmag-milan-slide-2PKO-copy/28tmag-milan-slide-2PKO-copy-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In the living room, Rex and Regina coffee tables from Casa Tosca, a custom rug by Fedora Design, a sofa upholstered in C&amp;C Milanoâ€™s velvet Fenice with antique passementerie and artwork by Cornelia Parker, flanked by octagonal sconces designed by Castellini Baldissera and a 16th-century armoire painted with a view of Montalcino.",
+          "copyright": "Guido Taroni"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/t-magazine/28tmag-milan-slide-2PKO-copy/28tmag-milan-slide-2PKO-copy-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In the living room, Rex and Regina coffee tables from Casa Tosca, a custom rug by Fedora Design, a sofa upholstered in C&amp;C Milanoâ€™s velvet Fenice with antique passementerie and artwork by Cornelia Parker, flanked by octagonal sconces designed by Castellini Baldissera and a 16th-century armoire painted with a view of Montalcino.",
+          "copyright": "Guido Taroni"
+        }
+      ],
+      "short_url": "https://nyti.ms/3kV4aXP"
+    },
+    {
+      "section": "books",
+      "subsection": "",
+      "title": "This Basketball-Loving Poet Resists Categorization",
+      "abstract": "Fresh off the success of his play â€œBarber Shop Chronicles,â€ Inua Ellams has a new book out, â€œThe Half God of Rainfall,â€ about a son of Zeus who dominates on the courts.",
+      "url": "https://www.nytimes.com/2020/09/26/books/inua-ellams-half-god-of-rainfall.html",
+      "uri": "nyt://article/fb33e9d4-46e3-55c3-b48c-9d15430ba4ad",
+      "byline": "By Elizabeth A. Harris",
+      "item_type": "Article",
+      "updated_date": "2020-09-28T18:51:21-04:00",
+      "created_date": "2020-09-26T05:00:19-04:00",
+      "published_date": "2020-09-26T05:00:19-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Books and Literature",
+        "The Half God of Rainfall (Book)",
+        "Poetry and Poets",
+        "Writing and Writers"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Ellams, Inua"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/books/26Ellams1/merlin_177537582_4ce4636c-bedc-47bd-974d-a7fa38c20c3d-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 2040,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "After he turned from art to writing, Inua Ellams said, &ldquo;Because I&rsquo;d spent so much time focused on imagery, when it came to writing poetry, I just wrote down the images in my head with words.&rdquo;",
+          "copyright": "Adama Jalloh for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/books/26Ellams1/26Ellams1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "After he turned from art to writing, Inua Ellams said, &ldquo;Because I&rsquo;d spent so much time focused on imagery, when it came to writing poetry, I just wrote down the images in my head with words.&rdquo;",
+          "copyright": "Adama Jalloh for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/books/26Ellams1/26Ellams1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "After he turned from art to writing, Inua Ellams said, &ldquo;Because I&rsquo;d spent so much time focused on imagery, when it came to writing poetry, I just wrote down the images in my head with words.&rdquo;",
+          "copyright": "Adama Jalloh for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/books/26Ellams1/26Ellams1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "After he turned from art to writing, Inua Ellams said, &ldquo;Because I&rsquo;d spent so much time focused on imagery, when it came to writing poetry, I just wrote down the images in my head with words.&rdquo;",
+          "copyright": "Adama Jalloh for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/books/26Ellams1/merlin_177537582_4ce4636c-bedc-47bd-974d-a7fa38c20c3d-articleInline.jpg",
+          "format": "Normal",
+          "height": 191,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "After he turned from art to writing, Inua Ellams said, &ldquo;Because I&rsquo;d spent so much time focused on imagery, when it came to writing poetry, I just wrote down the images in my head with words.&rdquo;",
+          "copyright": "Adama Jalloh for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3j7n11d"
+    },
+    {
+      "section": "arts",
+      "subsection": "music",
+      "title": "A Teenage Producer With a TikTok Hit Brings New Zealand to the World",
+      "abstract": "Jawsh 685â€™s â€œSavage Loveâ€ became a global pop smash. Next up: graduating from high school and, hopefully, getting on a plane.",
+      "url": "https://www.nytimes.com/2020/09/28/arts/music/jawsh-685-savage-love-siren-jams.html",
+      "uri": "nyt://article/a3870cf0-6131-5dce-a26c-2eb20955e7a2",
+      "byline": "By Jon Caramanica",
+      "item_type": "Article",
+      "updated_date": "2020-09-29T00:19:14-04:00",
+      "created_date": "2020-09-28T13:30:07-04:00",
+      "published_date": "2020-09-28T13:30:07-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Savage Love (Song)",
+        "Pop and Rock Music",
+        "Social Media"
+      ],
+      "org_facet": [
+        "TikTok (ByteDance)"
+      ],
+      "per_facet": [
+        "Jawsh 685"
+      ],
+      "geo_facet": [
+        "New Zealand"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/arts/23jawsh2/merlin_176429346_65aacf96-52a7-4016-b7aa-d5790d61242d-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 1366,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "&ldquo;My siren jam is somehow the most known ever now,&rdquo; Jawsh said.",
+          "copyright": "Cornell Tukiri for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/arts/23jawsh2/23jawsh2-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "&ldquo;My siren jam is somehow the most known ever now,&rdquo; Jawsh said.",
+          "copyright": "Cornell Tukiri for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/arts/23jawsh2/23jawsh2-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "&ldquo;My siren jam is somehow the most known ever now,&rdquo; Jawsh said.",
+          "copyright": "Cornell Tukiri for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/arts/23jawsh2/23jawsh2-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "&ldquo;My siren jam is somehow the most known ever now,&rdquo; Jawsh said.",
+          "copyright": "Cornell Tukiri for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/arts/23jawsh2/merlin_176429346_65aacf96-52a7-4016-b7aa-d5790d61242d-articleInline.jpg",
+          "format": "Normal",
+          "height": 285,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "&ldquo;My siren jam is somehow the most known ever now,&rdquo; Jawsh said.",
+          "copyright": "Cornell Tukiri for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3cG3sut"
+    },
+    {
+      "section": "sports",
+      "subsection": "football",
+      "title": "What a Sold-Out N.F.L. Game Is Like in 2020",
+      "abstract": "The Jaguars drew a socially distanced capacity crowd for Thursday nightâ€™s game against the Dolphins, as football fans sought a bit of normalcy.",
+      "url": "https://www.nytimes.com/2020/09/26/sports/football/nfl-fans-stadiums-allowed-jacksonville.html",
+      "uri": "nyt://article/83803262-a542-5362-92bd-38168840fd78",
+      "byline": "By Eve Edelheit",
+      "item_type": "Article",
+      "updated_date": "2020-09-28T18:51:21-04:00",
+      "created_date": "2020-09-26T05:00:32-04:00",
+      "published_date": "2020-09-26T05:00:32-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Football",
+        "Coronavirus Reopenings",
+        "Coronavirus (2019-nCoV)"
+      ],
+      "org_facet": [
+        "Jacksonville Jaguars",
+        "Miami Dolphins"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Jacksonville (Fla)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/sports/26NFL-fans-photoessay1-print/merlin_177583476_57d934c0-a0ff-4f4b-a538-ce171c2a0b5d-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/sports/26NFL-fans-photoessay1-print/26NFL-fans-photoessay-1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/sports/26NFL-fans-photoessay1-print/26NFL-fans-photoessay-1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/sports/26NFL-fans-photoessay1-print/26NFL-fans-photoessay1-print-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/sports/26NFL-fans-photoessay1-print/merlin_177583476_57d934c0-a0ff-4f4b-a538-ce171c2a0b5d-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/2S08Uz1"
+    },
+    {
+      "section": "books",
+      "subsection": "review",
+      "title": "â€˜Homeland Elegiesâ€™ Sings for a Fading Dream of National Belonging",
+      "abstract": "The novel, by Ayad Akhtar, considers the many contradictions of being an American Muslim after 9/11.",
+      "url": "https://www.nytimes.com/2020/09/10/books/review/ayad-akhtar-homeland-elegies.html",
+      "uri": "nyt://article/5c704760-cf36-5bec-beac-623516503c0b",
+      "byline": "By Hari Kunzru",
+      "item_type": "Article",
+      "updated_date": "2020-09-28T18:51:18-04:00",
+      "created_date": "2020-09-10T05:00:05-04:00",
+      "published_date": "2020-09-10T05:00:05-04:00",
+      "material_type_facet": "",
+      "kicker": "Fiction",
+      "des_facet": [
+        "Books and Literature",
+        "Homeland Elegies (Book)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Akhtar, Ayad"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/13/books/review/13Kunzru/13Kunzru-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1147,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "NaÃ¯ Zakharia"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/13/books/review/13Kunzru/13Kunzru-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "NaÃ¯ Zakharia"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/13/books/review/13Kunzru/13Kunzru-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "NaÃ¯ Zakharia"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/13/books/review/13Kunzru/13Kunzru-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "NaÃ¯ Zakharia"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/13/books/review/13Kunzru/13Kunzru-articleInline.jpg",
+          "format": "Normal",
+          "height": 106,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "NaÃ¯ Zakharia"
+        }
+      ],
+      "short_url": "https://nyti.ms/35mM1gV"
+    },
+    {
+      "section": "science",
+      "subsection": "",
+      "title": "Black Microbiologists Push for Visibility Amid a Pandemic",
+      "abstract": "A week of talks, panels and discussions seeks to counter an impression â€œthat this talent pool just does not exist.â€",
+      "url": "https://www.nytimes.com/2020/09/28/science/black-microbiology-week.html",
+      "uri": "nyt://article/88877ca1-4202-5ef8-a945-029b21447180",
+      "byline": "By Katherine J. Wu",
+      "item_type": "Article",
+      "updated_date": "2020-09-29T00:22:57-04:00",
+      "created_date": "2020-09-28T05:00:25-04:00",
+      "published_date": "2020-09-28T05:00:25-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Black People",
+        "Black Lives Matter Movement",
+        "Race and Ethnicity",
+        "Discrimination",
+        "Microbiology",
+        "Science and Technology",
+        "Coronavirus (2019-nCoV)",
+        "Colleges and Universities",
+        "Education (K-12)",
+        "your-feed-science",
+        "your-feed-health"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/science/28SCI-BLACKINMICRO-promo/merlin_177605886_77ec9c1c-daa9-4a61-ad7e-7ce7e234182f-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1367,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Cydni Elledge for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/science/28SCI-BLACKINMICRO-promo/28SCI-BLACKINMICRO-promo-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Cydni Elledge for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/science/28SCI-BLACKINMICRO-promo/28SCI-BLACKINMICRO-promo-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Cydni Elledge for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/science/28SCI-BLACKINMICRO-promo/28SCI-BLACKINMICRO-promo-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Cydni Elledge for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/science/28SCI-BLACKINMICRO-promo/28SCI-BLACKINMICRO-promo-articleInline.jpg",
+          "format": "Normal",
+          "height": 129,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Cydni Elledge for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3cES41W"
+    },
+    {
+      "section": "parenting",
+      "subsection": "pregnancy",
+      "title": "These Everyday Toxins May Be Hurting Pregnant Women and Their Babies",
+      "abstract": "PFAS, industrial chemicals used to waterproof jackets and grease-proof fast-food containers, may disrupt pregnancy with lasting effects.",
+      "url": "https://www.nytimes.com/2020/09/23/parenting/pregnancy/pfas-toxins-chemicals.html",
+      "uri": "nyt://article/764999d5-449b-576f-8539-f36a750d6465",
+      "byline": "By Liza Gross",
+      "item_type": "Article",
+      "updated_date": "2020-09-28T08:50:24-04:00",
+      "created_date": "2020-09-23T05:00:19-04:00",
+      "published_date": "2020-09-23T05:00:19-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Water Pollution",
+        "Pregnancy and Childbirth",
+        "Breastfeeding",
+        "Hazardous and Toxic Substances",
+        "Babies and Infants",
+        "Chemicals",
+        "Obesity",
+        "Diabetes",
+        "Parenting",
+        "Teflon",
+        "Thyroid Gland",
+        "Regulation and Deregulation of Industry"
+      ],
+      "org_facet": [
+        "DuPont Co",
+        "Environmental Protection Agency",
+        "3M Company",
+        "Taconic Plastics"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Hoosick Falls (NY)",
+        "Petersburgh (NY)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/22/autossell/08PFAS-and-pregnancy/08PFAS-and-pregnancy-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1166,
+          "width": 1750,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/22/autossell/08PFAS-and-pregnancy/08PFAS-and-pregnancy-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/22/autossell/08PFAS-and-pregnancy/08PFAS-and-pregnancy-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/22/autossell/08PFAS-and-pregnancy/08PFAS-and-pregnancy-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/22/autossell/08PFAS-and-pregnancy/08PFAS-and-pregnancy-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/3mGFLXT"
+    },
+    {
+      "section": "well",
+      "subsection": "live",
+      "title": "The Underused Weight Loss Option: Bariatric Surgery",
+      "abstract": "Experts say it can result in long-term weight loss and significantly improve physical and emotional health and even longevity.",
+      "url": "https://www.nytimes.com/2020/09/28/well/live/the-underused-weight-loss-option-bariatric-surgery.html",
+      "uri": "nyt://article/34bbf1b2-0025-5e63-99a2-40e9cac329d0",
+      "byline": "By Jane E. Brody",
+      "item_type": "Article",
+      "updated_date": "2020-09-29T00:28:32-04:00",
+      "created_date": "2020-09-28T05:00:13-04:00",
+      "published_date": "2020-09-28T05:00:13-04:00",
+      "material_type_facet": "",
+      "kicker": "Personal Health",
+      "des_facet": [
+        "Bariatric Surgery",
+        "Obesity",
+        "Surgery and Surgeons",
+        "Weight",
+        "Diet and Nutrition",
+        "Medicine and Health",
+        "Diabetes",
+        "Eating Disorders"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/science/29BRODY-BARIATRIC/29BRODY-BARIATRIC-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1302,
+          "width": 1965,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Gracia Lam"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/science/29BRODY-BARIATRIC/29BRODY-BARIATRIC-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Gracia Lam"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/science/29BRODY-BARIATRIC/29BRODY-BARIATRIC-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Gracia Lam"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/science/29BRODY-BARIATRIC/29BRODY-BARIATRIC-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Gracia Lam"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/science/29BRODY-BARIATRIC/29BRODY-BARIATRIC-articleInline.jpg",
+          "format": "Normal",
+          "height": 126,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Gracia Lam"
+        }
+      ],
+      "short_url": "https://nyti.ms/346eZzC"
+    },
+    {
+      "section": "parenting",
+      "subsection": "",
+      "title": "Family Displaced After a Disaster? Hereâ€™s How to Cope",
+      "abstract": "Experts offer advice on how to recognize the signs of trauma and re-establish some normalcy.",
+      "url": "https://www.nytimes.com/2020/09/25/parenting/disaster-evacuation-kids-coping.html",
+      "uri": "nyt://article/a4d062e2-2ef7-5061-bcd1-fa01c2d824bb",
+      "byline": "By Christina Caron",
+      "item_type": "Article",
+      "updated_date": "2020-09-28T09:02:44-04:00",
+      "created_date": "2020-09-25T15:57:19-04:00",
+      "published_date": "2020-09-25T15:57:19-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Content Type: Service",
+        "Children and Childhood",
+        "Anxiety and Stress",
+        "Emotions",
+        "Parenting",
+        "Hurricanes and Tropical Storms",
+        "Wildfires"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/multimedia/25parenting-Trauma/25parenting-Trauma-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1166,
+          "width": 1750,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Derek Abella"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/multimedia/25parenting-Trauma/25parenting-Trauma-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Derek Abella"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/multimedia/25parenting-Trauma/25parenting-Trauma-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Derek Abella"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/multimedia/25parenting-Trauma/25parenting-Trauma-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Derek Abella"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/multimedia/25parenting-Trauma/25parenting-Trauma-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Derek Abella"
+        }
+      ],
+      "short_url": "https://nyti.ms/308BC50"
+    },
+    {
+      "section": "at-home",
+      "subsection": "",
+      "title": "Fill Up on Tea or a New Film by Steve McQueen",
+      "abstract": "This week, meet the singer Tashera Robertson, hit a photo show and try your hand at making snow fluff.",
+      "url": "https://www.nytimes.com/2020/09/26/at-home/things-to-do-this-week.html",
+      "uri": "nyt://article/369380d1-bca5-504e-a27e-1eb85f1ed0d7",
+      "byline": "By Adriana Balsamo and Hilary Moss",
+      "item_type": "Article",
+      "updated_date": "2020-09-26T22:43:07-04:00",
+      "created_date": "2020-09-26T22:43:07-04:00",
+      "published_date": "2020-09-26T22:43:07-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Quarantine (Life and Culture)",
+        "Art",
+        "Culture (Arts)",
+        "Dancing",
+        "Music",
+        "Museums",
+        "Content Type: Service",
+        "Exercise",
+        "Books and Literature",
+        "New York Film Festival",
+        "Photography",
+        "Pop and Rock Music",
+        "Brooklyn Book Festival"
+      ],
+      "org_facet": [
+        "Cleveland Museum of Art",
+        "Metropolitan Museum of Art",
+        "National Museum of Women in the Arts",
+        "New School",
+        "New York City Ballet",
+        "Parsons the New School for Design"
+      ],
+      "per_facet": [
+        "Copeland, Misty",
+        "Gutierrez, Martine (Photographer)",
+        "Hall Moran, Alicia",
+        "Jones, Bill T",
+        "Jones, Tayari",
+        "Sherman, Cindy",
+        "Whitehead, Colson",
+        "Roy, Arundhati",
+        "Bennett, Brit",
+        "McQueen, Steve"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/multimedia/27ah-cal-labyrinth/27ah-cal-labyrinth-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 546,
+          "width": 546,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Rose Wong"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/multimedia/27ah-cal-labyrinth/27ah-cal-labyrinth-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Rose Wong"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/multimedia/27ah-cal-labyrinth/27ah-cal-labyrinth-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Rose Wong"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/multimedia/27ah-cal-labyrinth/27ah-cal-labyrinth-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Rose Wong"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/multimedia/27ah-cal-labyrinth/27ah-cal-labyrinth-articleInline.jpg",
+          "format": "Normal",
+          "height": 190,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Rose Wong"
+        }
+      ],
+      "short_url": "https://nyti.ms/3czJ5iz"
+    },
+    {
+      "section": "dining",
+      "subsection": "",
+      "title": "What to Cook This Week",
+      "abstract": "An heirloom tomato tart, a Sri Lankan dal and a crab and shrimp boil pasta: Set yourself up for success in the kitchen.",
+      "url": "https://www.nytimes.com/2020/09/27/dining/what-to-cook-this-week.html",
+      "uri": "nyt://article/652afc53-1047-5423-9538-4b4fc9c45969",
+      "byline": "By Sam Sifton",
+      "item_type": "Article",
+      "updated_date": "2020-09-28T22:05:02-04:00",
+      "created_date": "2020-09-27T10:30:01-04:00",
+      "published_date": "2020-09-27T10:30:01-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Cooking and Cookbooks"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/06/dining/17Tartrex/merlin_174651783_cd14fa9e-f2e3-4393-a61f-5aad5774497a-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Bryan Gardner for The New York Times. Food Stylist: Barrett Washburne."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/06/dining/17Tartrex/merlin_174651783_cd14fa9e-f2e3-4393-a61f-5aad5774497a-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Bryan Gardner for The New York Times. Food Stylist: Barrett Washburne."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/06/dining/17Tartrex/merlin_174651783_cd14fa9e-f2e3-4393-a61f-5aad5774497a-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Bryan Gardner for The New York Times. Food Stylist: Barrett Washburne."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/06/dining/17Tartrex/merlin_174651783_cd14fa9e-f2e3-4393-a61f-5aad5774497a-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Bryan Gardner for The New York Times. Food Stylist: Barrett Washburne."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/06/dining/17Tartrex/merlin_174651783_cd14fa9e-f2e3-4393-a61f-5aad5774497a-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Bryan Gardner for The New York Times. Food Stylist: Barrett Washburne."
+        }
+      ],
+      "short_url": "https://nyti.ms/36b3qtn"
+    },
+    {
+      "section": "business",
+      "subsection": "media",
+      "title": "Trump Wants to Discredit the Election. This Nerd Could Stop Him.",
+      "abstract": "Fox News, the presidentâ€™s favored network, will face enormous pressure to call the election for Mr. Trump. The outcome rests on a little-known 65-year-old wonk who will declare the winner.",
+      "url": "https://www.nytimes.com/2020/09/27/business/media/trump-election-fox-news.html",
+      "uri": "nyt://article/965e5363-25d9-5aed-9086-f80080525b32",
+      "byline": "By Ben Smith",
+      "item_type": "Article",
+      "updated_date": "2020-09-28T15:42:54-04:00",
+      "created_date": "2020-09-27T19:15:07-04:00",
+      "published_date": "2020-09-27T19:15:07-04:00",
+      "material_type_facet": "",
+      "kicker": "The media equation",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "News and News Media",
+        "Presidential Election of 2016"
+      ],
+      "org_facet": [
+        "Fox News Channel"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Mishkin, Arnon"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/27JPbensmith1-print/27JPbensmith1-print-superJumbo-v2.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump spent last week working overtime to cast doubt on the validity of the coming election.",
+          "copyright": "Pete Marovich for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/27JPbensmith1-print/27JPbensmith1-print-thumbStandard-v3.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump spent last week working overtime to cast doubt on the validity of the coming election.",
+          "copyright": "Pete Marovich for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/27JPbensmith1-print/27JPbensmith1-print-thumbLarge-v3.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump spent last week working overtime to cast doubt on the validity of the coming election.",
+          "copyright": "Pete Marovich for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/27JPbensmith1-print/27JPbensmith1-print-mediumThreeByTwo210-v4.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump spent last week working overtime to cast doubt on the validity of the coming election.",
+          "copyright": "Pete Marovich for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/27JPbensmith1-print/27JPbensmith1-print-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump spent last week working overtime to cast doubt on the validity of the coming election.",
+          "copyright": "Pete Marovich for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2ECkZar"
+    }
+  ]
+}
